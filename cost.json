@@ -1,0 +1,9212 @@
+[
+  {
+    "brand": "CSOT",
+    "model": "LD550EQE-FPA1",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "700",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG1561B01-1",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2151B05-2",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601BA1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD650EQE-FPA2",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD430EQE-FPA2",
+    "size": "43",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B05-2",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD320EUY-SQA3",
+    "size": "32",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD430EQE-FPA1",
+    "size": "43",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "700",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD430EQY-SNA2",
+    "size": "43",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001BS2-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601BA1-4",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001BS1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD750EQF-FRM2",
+    "size": "75",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD550EGY-SSA1",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD860EQL-SPP1",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG1561B01-2",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B04-3",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS1-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS1-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD750DGY-SRA2",
+    "size": "75",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001EA1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001BA1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD750DGN-FRH3",
+    "size": "75",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "3000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA1-5",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD650EGY-SSA1",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD650EGY-SSA2",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.E",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-9",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-J",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS1-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601CA1-3",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-8",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507ZA1-1",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "3072×1920 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD750EQK-STA1",
+    "size": "75",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-A",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B06-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D06-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-G",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601BS1-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SNF601BS1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001BS1-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS4-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381G01-3",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNC207QS1-1",
+    "size": "12.2",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-8",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2151B05-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND007ZA1-2",
+    "size": "13",
+    "type": "IPS",
+    "res": "2160×1350 ",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-A",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4393S01-1",
+    "size": "43.9",
+    "type": "VA",
+    "res": "1920×540 ",
+    "bri": "0",
+    "workT": "-10~70°C",
+    "storageT": "-20~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D03-2",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007JA1-4",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601BS1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G02-2",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE208ZA2-1",
+    "size": "14.2",
+    "type": "IPS",
+    "res": "3120×2080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS4-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS4-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QA1-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QX2-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA5-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2151B04-2",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A07-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-5",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-2 Ver.2.9",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001EA1-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "550",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-7",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-6",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B02-2",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3763S01-1",
+    "size": "37.6",
+    "type": "VA",
+    "res": "1920×540 ",
+    "bri": "0",
+    "workT": "-10~70°C",
+    "storageT": "-20~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007JA1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA1-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD270EUY-SPN1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-A",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG1561B01-5",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D01-1",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601CA1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007JA1-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND301BA1-4",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA4-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA2-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-B",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507ZA2-1",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "3072×1920 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507HZ2-1",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "3072×1920 ",
+    "bri": "550",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA1-6",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS1-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-Q",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA2-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA3-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B03-3",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-3 VH.6",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001BA2-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNB601LS1-1",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS2-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PNC357DB1-4",
+    "size": "12.4",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA1-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA1-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "430",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA5-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-F",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251B03-2",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-E",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H01-1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-8",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-6",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-A",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-7",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D01-2",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-H",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G01-A",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-6",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-9",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001EA1-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-B",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-8",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-8",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-A",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-7",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151B07-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251B05-2",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE208ZA1-3",
+    "size": "14.2",
+    "type": "IPS",
+    "res": "2520×1680 ",
+    "bri": "430",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007JA1-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G02-7 Ver.6.1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QS2-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D05-3",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA2-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA6-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PN8807DB1-1",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "500",
+    "workT": "-20~60°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-8",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507QS2-2",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-3",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-C",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251B03-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-5",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-6",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-2",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-A",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-G",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G01-2",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-8",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-9 Ver.2.2",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-6",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-6",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA1-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-3",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2361B02-3",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D09-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-4",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-8",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4251B03-3",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG6451D02-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-2",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-C",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPA957DB1-1",
+    "size": "11",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "500",
+    "workT": "-30~75°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG1561B01-6",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-C",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-2",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-3",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-4",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG7461D02-3",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D16-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNH300HB1-1",
+    "size": "17.3",
+    "type": "IPS",
+    "res": "3072×1440 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG1561B01-3",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD230EKE-FPA1",
+    "size": "23.1",
+    "type": "IPS",
+    "res": "1920×158 ",
+    "bri": "700",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-D",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-7",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-C",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-E",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007JA1-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G02-3",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAC300XA3-3",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007JA1-6",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAD200JB1-3",
+    "size": "13.2",
+    "type": "IPS",
+    "res": "1440×1920 ",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D03-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-M",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D04-6",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B05-2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SNF601BS1-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B05-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-C",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461E01-3",
+    "size": "55",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D04-2",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151B07-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701D01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-K",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701D01-4",
+    "size": "27",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G04-1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4251B05-2",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MHF601BS1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG215HB07-1",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG215HB07-1",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNH301CA3-1",
+    "size": "17.3",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QX2-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601BA1-3",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507DA1-1",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-1 VH.5",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-5",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601BA3-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2381B01-2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507QS2-1",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MHF601BS1-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA2-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B05-2",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251B01-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151B01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B03-5",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251B02-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851B01-5",
+    "size": "49",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-3",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-4",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-4",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-2",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-3",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-5",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-6",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461B01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-D",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG7461D01-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-5",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461D11-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461D11-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461D11-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H01-A",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CPA957DB1-1",
+    "size": "11",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-4",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND301BA1-2",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D09-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-6",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D01-D",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-B",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-5",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-F",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-9",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-7",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461D10-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D19-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-3",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-4",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-B",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPC357DB1-5",
+    "size": "12.4",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2361B02-2",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-9",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-B",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B01-3",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007JA1-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D03-1",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B04-4",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151G02-2",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-4",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PAF601BA1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "650",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNH301CA2-1",
+    "size": "17.3",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-H",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451E02-2",
+    "size": "65",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-7",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2151B05-3",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE208UA1-1",
+    "size": "14.2",
+    "type": "IPS",
+    "res": "2520×1680 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-K",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4951D01-1",
+    "size": "49.5",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-A",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF156BS1-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D04-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PAC801BB1-1",
+    "size": "12.9",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "650",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D02-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D06-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B03-1",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND301BA2-1",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D03-6",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701D01-3",
+    "size": "27",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-P",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-N",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D18-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381G01-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-6",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CPA957DB2-1",
+    "size": "11",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-7",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-6",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-8",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAA250XB1-6",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "1100",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4951D01-2",
+    "size": "49.5",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS1-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D06-6",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D08-5",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B02-3",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-8",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA1-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPE007ZB1-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "500",
+    "workT": "-20~60°C",
+    "storageT": "-40~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA6-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007JA1-7",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-1 Ver.7.1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-3 VH.2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307QS2-1",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPC100HB1-1",
+    "size": "12.1",
+    "type": "IPS",
+    "res": "3000×2120 ",
+    "bri": "600",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPE007ZB1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-40~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS5-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MZM601EZ1-1",
+    "size": "21.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "140",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD490EGY-SKM6",
+    "size": "49",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "-10~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151G02-6",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D04-4",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA5-4",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LC430EQC-STA1",
+    "size": "43",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D04-3",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LC430EUY-STA1",
+    "size": "43",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PAH307DB1-1",
+    "size": "17.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "SNF601BS1-4",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B03-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B05-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-8",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B05-6",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B03-3",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D03-3",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B03-4",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B07-2",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D03-4",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D03-1",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D01-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-7",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-E",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D08-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A07-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2151B04-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-6",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-6",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG6451D02-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D01-3",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-4",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-6",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H01-2",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D01-4",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151G02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D12-7",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D19-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A08-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151B06-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNC357DB1-4",
+    "size": "12.4",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-8",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-G",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D10-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461B01-2",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4903M02-3",
+    "size": "49",
+    "type": "",
+    "res": "5120×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B01-4",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4903K01-1",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G02-4",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G02-1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-6",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151G02-7",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A07-5",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.A",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG1561B01-2",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SNG007QS1-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM4501BA1-1",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAC300XA3-1",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A08-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA2-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAC300XL2-3",
+    "size": "12.3",
+    "type": "VA",
+    "res": "1920×720 ",
+    "bri": "910",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-9",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D03-2",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D03-1",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-J",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-C",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B06-1 Ver.2.2",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG9751D01-1",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B04-2",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-C",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D03-3",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D04-1",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D18-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D03-3",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D04-4",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-M",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS1-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381G01-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D17-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4251D02-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-7",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-5",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D05-4",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4951D02-1",
+    "size": "49.5",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE208UA1-2",
+    "size": "14.2",
+    "type": "IPS",
+    "res": "2520×1680 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461E01-2",
+    "size": "55",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-6",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D02-3",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-3",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151G02-3",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-2 VH.1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B09-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2151B05-4",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PP8807DB1-1",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H02-4",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-4 Ver.6.1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ZGE661H01-1",
+    "size": "150",
+    "type": "IPS",
+    "res": "6560×3840 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701D01-2",
+    "size": "27",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507DA1-3",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG215HB07-2",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D03-3",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PG2701G03-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "500",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G04-2",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND007ZA1-3",
+    "size": "13",
+    "type": "IPS",
+    "res": "2160×1350 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QA2-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LC430EUJ-STA1",
+    "size": "43",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LC320DXJ-SRA8",
+    "size": "32",
+    "type": "IPS",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF307ZB1-1",
+    "size": "15.3",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SHF601EA1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~55°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D03-2",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151D03-1",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST846AD06-1",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNB601LS1-4",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B04-1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-4 VH.1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD430EQY-SRA3",
+    "size": "43",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG245HB04-3 VH.1",
+    "size": "25",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B02-4",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-4 VH.1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG4601B01-2",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461B05-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST645AE03-5",
+    "size": "65",
+    "type": "IPS",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAF6001BB2-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PAA100QB1-3",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "810",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701D02-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-2 VH.4",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG270AB02-5",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307ZA1-1",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MZD301BB1-1",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MZD301BB1-2",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007QA1-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG270HG05-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS2-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507ZA2-3",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "3072×1920 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF307QS3-1",
+    "size": "15.3",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2381B02-4",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2381B04-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SHK001EA1-2",
+    "size": "19",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-3 VH.1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-3 VH.3",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SHK001EA1-1",
+    "size": "19",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-1 VH.2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-4 VH.3",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.6.5",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.5",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-9 Ver.2.8",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-7",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A02-1",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-6",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-9",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D04-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D04-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-C",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B07-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D04-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151B01-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D08-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B03-6",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B06-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-8",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-A",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D04-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D04-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151B04-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D01-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D10-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D08-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D04-3",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D07-9",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461D08-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2151B04-3",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-F",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG6451D02-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG4251B03-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461B01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6530MB2-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "1080×2340 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6300MB2-1",
+    "size": "6.3",
+    "type": "IPS",
+    "res": "1080×2340 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6530JB3-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "1080×2340 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CT3151A07-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B05-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2151B04-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG7461D02-2",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6675JB2-1",
+    "size": "6.7",
+    "type": "IPS",
+    "res": "1080×2400 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D08-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM6530MB2-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "1080×2340 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-A",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SGA462S01-1",
+    "size": "105",
+    "type": "VA",
+    "res": "5120×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6530MB2-2",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "1080×2340 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-1",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461B01-2",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5371D15-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461D11-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6525LB2-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-5",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B06-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-B",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2361B02-1",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B05-3",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B05-6",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-C",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451E02-1",
+    "size": "65",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-5",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D08-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D10-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-4",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D02-J",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D03-D",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG4601B01-1",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461B04-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-3",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-2",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461B02-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM4961AA1-4",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H01-H",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D08-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4251D01-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461E01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461E02-1",
+    "size": "75",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-6",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAC300XB1-1",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "1250",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D05-1",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D02-7",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B05-6",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6585JB3-1",
+    "size": "6.6",
+    "type": "IPS",
+    "res": "1080×2408 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BP8687LT1-1",
+    "size": "8.7",
+    "type": "IPS",
+    "res": "800×1340 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-4",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "WM6676Z21-7",
+    "size": "6.7",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF601EA1-5",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "600",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM6670LT1-1",
+    "size": "6.7",
+    "type": "IPS",
+    "res": "720×1604 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451E03-3",
+    "size": "65",
+    "type": "IPS",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAF407DB1-1",
+    "size": "15.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM6560LT1-1",
+    "size": "6.6",
+    "type": "IPS",
+    "res": "720×1612 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "WM6677Z25-2",
+    "size": "6.7",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "485",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BK2691AA1-1",
+    "size": "2.7",
+    "type": "IPS",
+    "res": "1280×720 ",
+    "bri": "0",
+    "workT": "-20~80°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM4731XB2-1",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "750×1334 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM6044LB1-2",
+    "size": "6",
+    "type": "IPS",
+    "res": "828×1792 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D08-6",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D10-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG7461D03-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG6451D03-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4903M01-1",
+    "size": "49",
+    "type": "",
+    "res": "5120×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4903M02-1",
+    "size": "49",
+    "type": "",
+    "res": "5120×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6725JB1-1",
+    "size": "6.7",
+    "type": "IPS",
+    "res": "1080×2400 ",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451E03-1",
+    "size": "65",
+    "type": "IPS",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D16-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D16-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D20-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D08-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D19-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D19-6",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D11-D",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA2-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D20-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAC300LS1-1",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNC357DB1-1",
+    "size": "12.4",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNH301CA3-3",
+    "size": "17.3",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CPE007ZB1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-7",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG9751D01-2",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "STB451D01-1",
+    "size": "115",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BK4451BA1-1",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BNA100ZS1-1",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BAA100AS1-1",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "720×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM4501BA1-2",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM3508ZA1-1",
+    "size": "3.5",
+    "type": "IPS",
+    "res": "320×480 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAF601BA1-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4951D02-1",
+    "size": "49.5",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG5461D18-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-5",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST9751D01-8",
+    "size": "98",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G01-3",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B01-2",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D20-C",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4251D01-3",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG6451D02-4",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPC357DB1-1",
+    "size": "12.4",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAC300XA3-B",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D03-4",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H02-2",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG3402H03-1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "720",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B08-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-2 Ver.6.3",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ZGF633R01-1",
+    "size": "156",
+    "type": "IPS",
+    "res": "7720×2160 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A07-A",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D06-9",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS2-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B04-1",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151G02-5",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAC300LB2-8",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D13-B",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST425HB06-2",
+    "size": "43",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA1-4",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SH2701D01-2",
+    "size": "27",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007DA1-L",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST425AD02-6",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST746AD05-C",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PPB610UB1-X",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "2800×2000 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D02-3",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461E03-3",
+    "size": "75",
+    "type": "VA",
+    "res": "7680×4320 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG270AB04-5",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST846AD04-6",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNB601LS1-3",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAC901BB2-9",
+    "size": "12.9",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG245HB04-4 VH.1",
+    "size": "25",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-5",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G04-3",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001BS1-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG9152J01-1",
+    "size": "92",
+    "type": "VA",
+    "res": "5120×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MAA250XB1-B",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG645AD06-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D21-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251B05-3",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST546AD20-H",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D04-D",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D02-5",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST8461D05-2",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST425HB06-1",
+    "size": "43",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST746AD09-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST746AD10-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D17-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4251D02-4",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.6.8",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST746AD07-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAE601BB1-3",
+    "size": "14.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "JM6530Z21-2",
+    "size": "6.5",
+    "type": "",
+    "res": "1176×2400 ",
+    "bri": "450",
+    "workT": "-15~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D18-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG4251B08-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST546AD20-D",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG315HB08-4",
+    "size": "32",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD320EUY-SQA6",
+    "size": "32",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SNE007QS2-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA3-6",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA3-5",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SNE007QS7-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA3-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007ZA3-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-6",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2361B02-7",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-A",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007QS3-7",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE507QS2-3",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG236AB02-8",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-7",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNG007ZA1-3",
+    "size": "16",
+    "type": "IPS",
+    "res": "3200×2000 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD238EU4-SUA1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2381B01-1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2381B04-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG238HB04-M",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG238HB04-5",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-9",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SAF407DB1-7",
+    "size": "15.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6954JB1-1",
+    "size": "7",
+    "type": "IPS",
+    "res": "1080×2376 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B01-1",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B03-5",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2451B02-1",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2701B05-3",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2701B05-4",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B05-4",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D08-A",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B05-8 VH.2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG270HB08-L",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG856AD06-1",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST6451D07-6",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PP8807DB2-1",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "500",
+    "workT": "-20~60°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PP8807DB2-4",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "750",
+    "workT": "-20~60°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST7461D03-7",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MH215HB01-1",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MH238HB01-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SGA462S01-2",
+    "size": "105",
+    "type": "VA",
+    "res": "5120×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PAC801BB3-4",
+    "size": "12.9",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "700",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-3 VH.4",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-1 Ver.7.2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B08-1 VH.4",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG3402H01-1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "720",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B05-8 VH.1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-2 VH.3",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-2 VH.7",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-2 VH.8",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G03-2 V2.1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.6.7",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.6.6",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.6.3",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.6.2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.3.1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.D",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.0.3",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-2 Ver.2.5",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-2 Ver.2.3",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.2",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.6",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.7",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-1 Ver.6.4",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-2 Ver.6.1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-2 Ver.6.2",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-4 Ver.6.2",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3402H03-4 Ver.6.3",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-4 VH.2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-4 Ver.2.1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B02-4 Ver.2.2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-9 Ver.2.1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-9 Ver.1.1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-1 VH.2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-1 Ver.7.1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-1 Ver.7.2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701G02-7 Ver.6.2",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B06-1 Ver.2.1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2151B06-1 Ver.2.5",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST645AD13-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-3 VH.1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B04-3 VH.4",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG6451D03-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG746AD06-1",
+    "size": "75",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG340AJ01-A",
+    "size": "34",
+    "type": "VA",
+    "res": "5120×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNF307QS1-1",
+    "size": "15.3",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2151B01-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-2",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D01-4",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-7 Ver.2.5",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND508ZA1-1",
+    "size": "13.5",
+    "type": "IPS",
+    "res": "2880×1920 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND408ZA1-3",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "2520×1680 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007DA1-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2350S01-1",
+    "size": "23.5",
+    "type": "VA",
+    "res": "1920×360 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D01-1",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND007ZA1-1",
+    "size": "13",
+    "type": "IPS",
+    "res": "2160×1350 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE001EA1-5",
+    "size": "14",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307JA1-2",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-C",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "WM6520Z21-1",
+    "size": "6.5",
+    "type": "",
+    "res": "840×2520 ",
+    "bri": "430",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851B01-1",
+    "size": "49",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2151B02-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851B01-3",
+    "size": "49",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2151B03-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "PG1130S01-1",
+    "size": "11.3",
+    "type": "VA",
+    "res": "580×54 ",
+    "bri": "700",
+    "workT": "-30~60°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D01-2",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG8561D02-1",
+    "size": "86",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-8",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-4",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-9",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG2451B02-1",
+    "size": "25",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A03-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A04-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "350",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3651A01-1",
+    "size": "36.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4601B02-1",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A03-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A05-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A05-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-1",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-2",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4601B02-2",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT2751A01-2",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT2751A01-1",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MTB001D01-1",
+    "size": "110",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "1000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-3",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT5461D01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B01-3",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4761B01-3",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4761B01-4",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-5",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4601B02-3",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4601B02-2",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-4",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4601B02-1",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B02-1",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4761B01-1",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2751A01-5",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461B02-3",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-5",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT5461D01-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B01-1",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4851D01-2",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4851D01-1",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4851D01-3",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461B02-4",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461D01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3651A01-1",
+    "size": "36.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4851D01-3",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A05-6",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B01-5",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A06-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A04-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "350",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A05-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3151A05-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3651A01-2",
+    "size": "36.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT3651A01-3",
+    "size": "36.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT4601B02-3",
+    "size": "46",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461D01-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D01-3",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4851D01-2",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D01-2",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-7",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B01-6",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461B02-3",
+    "size": "55",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT2751A01-4",
+    "size": "27.5",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4761B01-1",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4761B01-2",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT4851D01-4",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-9",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST3151A04-8",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D02-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461D01-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D02-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B02-1",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT5461D05-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "320",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B01-7",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D01-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D05-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461D02-7",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D01-4",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D02-7",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM546B1-002",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM520F1-001",
+    "size": "5.2",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D01-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM500B1-001",
+    "size": "5",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851B02-1",
+    "size": "49",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM546B1-006",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM599J1-001",
+    "size": "6",
+    "type": "IPS",
+    "res": "1080×2160 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MT5461D01-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851B01-2",
+    "size": "49",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM546B2-001",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM570X1-001",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1440 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM599J1-002",
+    "size": "6",
+    "type": "IPS",
+    "res": "1080×2160 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG5461D02-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM599X1-001",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1440 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6199LB1-1",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "720×1500 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461D02-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM546B1-005",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4761B01-4",
+    "size": "48",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM570X1-003",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1440 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6264LA1-1",
+    "size": "6.3",
+    "type": "IPS",
+    "res": "720×1520 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM5992XB1-1",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1440 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6224LB1-1",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "720×1520 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM547X1-002",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1440 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM520B1-001",
+    "size": "5.2",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST2151B03-2",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG1130S01-1",
+    "size": "11.3",
+    "type": "VA",
+    "res": "580×54 ",
+    "bri": "700",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM546B3-001",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "1080×1920 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6189MB1-1",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "1080×2246 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG3151B05-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6090LA1-1",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MG4700S01-1",
+    "size": "47",
+    "type": "VA",
+    "res": "3840×180 ",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2350S01-1",
+    "size": "23.5",
+    "type": "VA",
+    "res": "1920×360 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST5461D01-6",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6224LB1-6",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "720×1520 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM5940LB1-2",
+    "size": "5.9",
+    "type": "IPS",
+    "res": "720×1560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6189MB1-6",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "1080×2246 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-5",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "ST4851D01-1",
+    "size": "49",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM5992JB1-3",
+    "size": "6",
+    "type": "IPS",
+    "res": "1080×2160 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-3",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM5001AB1-3",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND888HA1-1",
+    "size": "13.9",
+    "type": "IPS",
+    "res": "3000×2000 ",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-A",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM5001AB1-2",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM6189MB1-1",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "1080×2246 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "BM6675JB2-1",
+    "size": "6.7",
+    "type": "IPS",
+    "res": "1080×2400 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MND307DA1-B",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "MNE007DA1-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CP840D1-001",
+    "size": "8.4",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "CM6224LB1-3",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "720×1520 ",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "TT5461D02-5",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-7 Ver.6.1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-7 Ver.2.1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-7 Ver.2.2",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2701B01-7 Ver.2.8",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "LD750EQY-SMN1",
+    "size": "75",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.7",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.5",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.3",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-1 Ver.2.A",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "CSOT",
+    "model": "SG2381B01-2 Ver.2.2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  }
+]
