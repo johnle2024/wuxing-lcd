@@ -3219,6 +3219,152 @@ function closeModal() {
     }
 }
 </script>
+<section id="wuxing-inquiry-box" style="background-color: #f8fafc; padding: 60px 20px; font-family: Arial, sans-serif;">
+    <div style="max-width: 900px; margin: 0 auto; background: #ffffff; border-radius: 12px; padding: 40px; box-shadow: 0 10px 25px rgba(0,0,0,0.05);">
+        
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h2 id="wx-title" style="color: #1e293b; margin-bottom: 8px; font-size: 28px;">Custom Display Solution</h2>
+            <p id="wx-subtitle" style="color: #64748b; font-size: 15px; margin: 0;">Provide your specifications, Jacy will feedback within 24 hours.</p>
+        </div>
+
+        <form id="wx-form-final" autocomplete="off">
+            <input type="hidden" name="lang" id="wx-lang-tracker" value="en">
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-name" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Name / Company</label>
+                    <input type="text" name="name_company" placeholder="e.g. John / Apple Inc." required style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px; outline: none;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-email" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Business Email</label>
+                    <input type="email" name="email" placeholder="sales@yourcompany.com" required style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-contact" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">WhatsApp / Phone</label>
+                    <input type="text" name="contact" placeholder="+86..." style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-tp" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Touch Panel</label>
+                    <select name="tp_option" style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px; background: #fff;">
+                        <option id="o-no" value="Without TP">Without TP</option>
+                        <option id="o-yes" value="With TP">With TP</option>
+                    </select>
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-size" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Size Range</label>
+                    <input type="text" name="size" placeholder="e.g. 7, 10.1 inch" style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-res" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Resolution</label>
+                    <input type="text" name="res" placeholder="e.g. 1024x768" style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="grid-column: 1 / -1; display: flex; flex-direction: column;">
+                    <label id="l-msg" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Message</label>
+                    <textarea name="message" rows="4" placeholder="Specific requirements..." style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px; resize: vertical;"></textarea>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 30px;">
+                <button type="submit" id="wx-btn" style="background: #2563eb; color: white; padding: 14px 60px; border-radius: 6px; border: none; font-size: 16px; font-weight: bold; cursor: pointer; transition: background 0.3s;">SEND INQUIRY</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        (function() {
+            const data = {
+                en: {
+                    t: "Custom Display Solution", st: "Provide your specifications, Jacy will feedback within 24 hours.",
+                    n: "Name / Company", e: "Business Email", c: "WhatsApp / Phone", tp: "Touch Panel",
+                    no: "Without TP", yes: "With TP", sz: "Size Range", rs: "Resolution", msg: "Message",
+                    btn: "SEND INQUIRY", sd: "Sending...", ok: "Success! Jacy will contact you soon."
+                },
+                cn: {
+                    t: "定制显示方案", st: "提交规格要求，Jacy 将在24小时内反馈。",
+                    n: "姓名 / 公司名称", e: "企业邮箱", c: "联系电话 / WhatsApp", tp: "触摸屏需求",
+                    no: "不带触摸", yes: "带触摸 (TP)", sz: "尺寸范围", rs: "分辨率要求", msg: "详细留言",
+                    btn: "提交询价", sd: "提交中...", ok: "提交成功！Jacy会尽快回复您。"
+                }
+            };
+
+            function updateUI(lang) {
+                const d = data[lang];
+                const el = (id) => document.getElementById(id);
+                if(!el('wx-btn')) return; // 防止脚本在页面未加载完时执行
+
+                el('wx-lang-tracker').value = lang;
+                el('wx-title').innerText = d.t;
+                el('wx-subtitle').innerText = d.st;
+                el('l-name').innerText = d.n;
+                el('l-email').innerText = d.e;
+                el('l-contact').innerText = d.c;
+                el('l-tp').innerText = d.tp;
+                el('o-no').innerText = d.no;
+                el('o-yes').innerText = d.yes;
+                el('l-size').innerText = d.sz;
+                el('l-res').innerText = d.rs;
+                el('l-msg').innerText = d.msg;
+                el('wx-btn').innerText = d.btn;
+            }
+
+            // 智能检测逻辑
+            function autoDetect() {
+                const bodyText = document.body.innerText;
+                const htmlLang = document.documentElement.lang.toLowerCase();
+                
+                // 检查是否包含英文关键词或HTML声明为英文
+                const isEn = bodyText.includes('About Us') || 
+                             bodyText.includes('Applications') || 
+                             htmlLang.includes('en');
+                
+                const target = isEn ? 'en' : 'cn';
+                if (document.getElementById('wx-lang-tracker').value !== target) {
+                    updateUI(target);
+                }
+            }
+
+            // 监听全站点击（兼容WordPress等框架的异步语言切换）
+            document.addEventListener('click', () => setTimeout(autoDetect, 300));
+
+            // 初始化执行
+            window.addEventListener('DOMContentLoaded', () => {
+                updateUI('en'); 
+                setTimeout(autoDetect, 500);
+            });
+
+            // 提交请求
+            document.getElementById('wx-form-final').onsubmit = async (e) => {
+                e.preventDefault();
+                const btn = document.getElementById('wx-btn');
+                const lang = document.getElementById('wx-lang-tracker').value;
+                const originalBtnText = data[lang].btn;
+
+                btn.innerText = data[lang].sd;
+                btn.disabled = true;
+
+                try {
+                    const response = await fetch('https://api.awuxingelec.qzz.io', {
+                        method: 'POST',
+                        body: JSON.stringify(Object.fromEntries(new FormData(e.target))),
+                        headers: { 'Content-Type': 'application/json' }
+                    });
+                    
+                    if (response.ok) {
+                        alert(data[lang].ok);
+                        e.target.reset();
+                    } else { 
+                        alert("Submission failed. Please try again or contact us directly."); 
+                    }
+                } catch (err) { 
+                    alert("Network error! Please check your connection."); 
+                } finally {
+                    btn.innerText = originalBtnText;
+                    btn.disabled = false;
+                }
+            };
+        })();
+    </script>
+</section>
 <section id="contact-cta" style="background-color: #fcfcfc; border-top: 1px solid #e0e0e0; padding: 50px 20px; font-family: 'Segoe UI', Arial, sans-serif;">
     <div class="max-w-7xl mx-auto flex flex-wrap justify-between gap-10">
         
