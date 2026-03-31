@@ -3271,99 +3271,106 @@ function closeModal() {
     </div>
 
     <script>
-        (function() {
-            const data = {
-                en: {
-                    t: "Custom Display Solution", st: "Provide your specifications, Jacy will feedback within 24 hours.",
-                    n: "Name / Company", e: "Business Email", c: "WhatsApp / Phone", tp: "Touch Panel",
-                    no: "Without TP", yes: "With TP", sz: "Size Range", rs: "Resolution", msg: "Message",
-                    btn: "SEND INQUIRY", sd: "Sending...", ok: "Success! Jacy will contact you soon."
-                },
-                cn: {
-                    t: "定制显示方案", st: "提交规格要求，Jacy 将在24小时内反馈。",
-                    n: "姓名 / 公司名称", e: "企业邮箱", c: "联系电话 / WhatsApp", tp: "触摸屏需求",
-                    no: "不带触摸", yes: "带触摸 (TP)", sz: "尺寸范围", rs: "分辨率要求", msg: "详细留言",
-                    btn: "提交询价", sd: "提交中...", ok: "提交成功！Jacy会尽快回复您。"
-                }
-            };
+    (function() {
+        const data = {
+            en: {
+                t: "Custom Display Solution", st: "Provide your specifications, Jacy will feedback within 24 hours.",
+                n: "Name / Company", e: "Business Email", c: "WhatsApp / Phone", tp: "Touch Panel",
+                no: "Without TP", yes: "With TP", sz: "Size Range", rs: "Resolution", msg: "Message",
+                btn: "SEND INQUIRY", sd: "Sending...", ok: "Success! Jacy will contact you soon."
+            },
+            cn: {
+                t: "定制显示方案", st: "提交规格要求，Jacy 将在24小时内反馈。",
+                n: "姓名 / 公司名称", e: "企业邮箱", c: "联系电话 / WhatsApp", tp: "触摸屏需求",
+                no: "不带触摸", yes: "带触摸 (TP)", sz: "尺寸范围", rs: "分辨率要求", msg: "详细留言",
+                btn: "提交询价", sd: "提交中...", ok: "提交成功！Jacy会尽快回复您。"
+            }
+        };
 
-            function updateUI(lang) {
-                const d = data[lang];
-                const el = (id) => document.getElementById(id);
-                if(!el('wx-btn')) return; // 防止脚本在页面未加载完时执行
+        function updateUI(lang) {
+            const d = data[lang];
+            const el = (id) => document.getElementById(id);
+            if(!el('wx-btn')) return;
 
-                el('wx-lang-tracker').value = lang;
-                el('wx-title').innerText = d.t;
-                el('wx-subtitle').innerText = d.st;
-                el('l-name').innerText = d.n;
-                el('l-email').innerText = d.e;
-                el('l-contact').innerText = d.c;
-                el('l-tp').innerText = d.tp;
-                el('o-no').innerText = d.no;
-                el('o-yes').innerText = d.yes;
-                el('l-size').innerText = d.sz;
-                el('l-res').innerText = d.rs;
-                el('l-msg').innerText = d.msg;
-                el('wx-btn').innerText = d.btn;
+            el('wx-lang-tracker').value = lang;
+            el('wx-title').innerText = d.t;
+            el('wx-subtitle').innerText = d.st;
+            el('l-name').innerText = d.n;
+            el('l-email').innerText = d.e;
+            el('l-contact').innerText = d.c;
+            el('l-tp').innerText = d.tp;
+            el('o-no').innerText = d.no;
+            el('o-yes').innerText = d.yes;
+            el('l-size').innerText = d.sz;
+            el('l-res').innerText = d.rs;
+            el('l-msg').innerText = d.msg;
+            el('wx-btn').innerText = d.btn;
+        }
+
+        function autoDetect() {
+            // 1. 优先检查 URL 路径（WordPress 切换语言通常会改变 URL）
+            const url = window.location.href.toLowerCase();
+            // 2. 检查 HTML 标签的 lang 属性
+            const htmlLang = document.documentElement.lang.toLowerCase();
+            // 3. 检查页面关键英文文本
+            const bodyText = document.body.innerText;
+
+            let target = 'cn'; // 默认中文
+
+            if (url.includes('/en/') || url.includes('?lang=en') || htmlLang.includes('en') || bodyText.includes('About Us') || bodyText.includes('Product')) {
+                target = 'en';
             }
 
-            // 智能检测逻辑
-            function autoDetect() {
-                const bodyText = document.body.innerText;
-                const htmlLang = document.documentElement.lang.toLowerCase();
-                
-                // 检查是否包含英文关键词或HTML声明为英文
-                const isEn = bodyText.includes('About Us') || 
-                             bodyText.includes('Applications') || 
-                             htmlLang.includes('en');
-                
-                const target = isEn ? 'en' : 'cn';
-                if (document.getElementById('wx-lang-tracker').value !== target) {
-                    updateUI(target);
-                }
+            if (document.getElementById('wx-lang-tracker').value !== target) {
+                updateUI(target);
             }
+        }
 
-            // 监听全站点击（兼容WordPress等框架的异步语言切换）
-            document.addEventListener('click', () => setTimeout(autoDetect, 300));
+        // 监听点击（防止用户手动切换语言后表单不更新）
+        document.addEventListener('click', () => setTimeout(autoDetect, 300));
 
-            // 初始化执行
-            window.addEventListener('DOMContentLoaded', () => {
-                updateUI('en'); 
-                setTimeout(autoDetect, 500);
+        // 页面加载完成后立即执行
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => {
+                updateUI('en'); // 先默认英文防止闪烁
+                autoDetect();
             });
+        } else {
+            autoDetect();
+        }
 
-            // 提交请求
-            document.getElementById('wx-form-final').onsubmit = async (e) => {
-                e.preventDefault();
-                const btn = document.getElementById('wx-btn');
-                const lang = document.getElementById('wx-lang-tracker').value;
-                const originalBtnText = data[lang].btn;
+        // 提交逻辑保持不变
+        document.getElementById('wx-form-final').onsubmit = async (e) => {
+            e.preventDefault();
+            const btn = document.getElementById('wx-btn');
+            const lang = document.getElementById('wx-lang-tracker').value;
+            const originalBtnText = data[lang].btn;
 
-                btn.innerText = data[lang].sd;
-                btn.disabled = true;
+            btn.innerText = data[lang].sd;
+            btn.disabled = true;
 
-                try {
-                    const response = await fetch('https://api.awuxingelec.qzz.io', {
-                        method: 'POST',
-                        body: JSON.stringify(Object.fromEntries(new FormData(e.target))),
-                        headers: { 'Content-Type': 'application/json' }
-                    });
-                    
-                    if (response.ok) {
-                        alert(data[lang].ok);
-                        e.target.reset();
-                    } else { 
-                        alert("Submission failed. Please try again or contact us directly."); 
-                    }
-                } catch (err) { 
-                    alert("Network error! Please check your connection."); 
-                } finally {
-                    btn.innerText = originalBtnText;
-                    btn.disabled = false;
+            try {
+                const response = await fetch('https://api.awuxingelec.qzz.io', {
+                    method: 'POST',
+                    body: JSON.stringify(Object.fromEntries(new FormData(e.target))),
+                    headers: { 'Content-Type': 'application/json' }
+                });
+                
+                if (response.ok) {
+                    alert(data[lang].ok);
+                    e.target.reset();
+                } else { 
+                    alert(lang === 'en' ? "Submission failed." : "提交失败，请重试。"); 
                 }
-            };
-        })();
-    </script>
+            } catch (err) { 
+                alert(lang === 'en' ? "Network error!" : "网络错误！"); 
+            } finally {
+                btn.innerText = originalBtnText;
+                btn.disabled = false;
+            }
+        };
+    })();
+</script>
 </section>
 <section id="contact-cta" style="background-color: #fcfcfc; border-top: 1px solid #e0e0e0; padding: 50px 20px; font-family: 'Segoe UI', Arial, sans-serif;">
     <div class="max-w-7xl mx-auto flex flex-wrap justify-between gap-10">
