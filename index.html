@@ -615,7 +615,9 @@ const panelModule = (function() {
                 <td class="px-6 py-4 font-medium">${i.brand}</td>
                 <td class="px-6 py-4 font-bold text-blue-700">${i.model}</td>
                 <td class="px-6 py-4">${i.size}</td>
-                <td class="px-6 py-4"><span class="px-2 py-0.5 bg-slate-100 rounded text-[10px]">${i.type || 'IPS'}</span></td>
+                <td class="px-6 py-4">
+    ${i.type ? `<span class="px-2 py-0.5 bg-slate-100 rounded text-[10px]">${i.type}</span>` : ''}
+</td>
                 <td class="px-6 py-4 font-mono">${i.res}</td>
                 <td class="px-6 py-4 font-mono">
     ${(i.bri == 0 || !i.bri) ? '' : `${i.bri} <span class="text-[10px] opacity-40">cd/m²</span>`}
