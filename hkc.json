@@ -1,0 +1,3392 @@
+[
+  {
+    "brand": "HKC",
+    "model": "MB156CS01-9",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT01-1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156AN01-5",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-3",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS01-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB116AN01-1",
+    "size": "11.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS01-4",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC215CT01-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-9",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS05-3",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT02-14",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-1",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS01-6",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140CS01-4",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-7",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT236AT02-1",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-8",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC156CS01-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT580GT03-1",
+    "size": "58",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS01-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT236AT02-4",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT01-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT01-2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT03-14",
+    "size": "43",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC156CS03-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC215CT01-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140DS01-2",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT02-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB116AN01-3",
+    "size": "11.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN215CT02-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC156CS01-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS03-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB156CS02-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB160DS02-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC238CS02-10",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PV128CS01-2",
+    "size": "12.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CS02-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT03-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CN01-1",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PR230KT01-1",
+    "size": "23",
+    "type": "VA",
+    "res": "1880×120 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140DS01-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CN01-3",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PR466KT01-1",
+    "size": "46.6",
+    "type": "VA",
+    "res": "3840×120 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS01-A",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QB116AN01-1",
+    "size": "11.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-7",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-3",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CS03-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-8",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-2",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN315GT01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PG101BS01-1",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GS02-1",
+    "size": "50",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156AN01-4",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-5",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QV116CS01-1",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PG116CS01-2",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PG140CS01-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PG156CS01-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PV103CS01-1",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PV123CS01-1",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS04-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES01-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270CU01-2",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS02-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES02-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "ST550GS02-2",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC156CS01-30",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT06-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-5",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB160DS01-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PV103CS01-2",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT05-2",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT04-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156AN01-3",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN245ES01-1",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC500GS02-1",
+    "size": "49.5",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT02-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT01-3",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QP101BS01-1",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-9",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-2",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN195BN01-2",
+    "size": "19.5",
+    "type": "TN",
+    "res": "1600×900 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QG070AS01-1",
+    "size": "7",
+    "type": "IPS",
+    "res": "600×1024 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QG070AS02-1",
+    "size": "7",
+    "type": "IPS",
+    "res": "1024×600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM062HS03-1",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "720×1560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QC156CS01-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140CS01-3",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GT01-2",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QV090AS01-1",
+    "size": "9",
+    "type": "IPS",
+    "res": "1024×600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QG101AS01-1",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1024×600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC270CT01-2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "-20~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC156CS01-3",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT05-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC350KT01-1",
+    "size": "35",
+    "type": "VA",
+    "res": "2840×120 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT03-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT04-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "-10~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN340FU02-1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN215CS01-1",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC156CS03-3",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT04-2",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "-10~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN340FU01-1",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN245CU01-1",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN245CT01-1",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GT02-5",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GT01-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS03-4",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT01-2",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT01-1",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB156CS01-4",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GS02-3",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB140DS02-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB140DS01-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320CT02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MV123CS01-20",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720 ",
+    "bri": "900",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS03-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS02-4",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT860GS01-1",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT860GS01-2",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156AN01-1",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT02-4",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT06-1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT08-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GS03-1",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HKC",
+    "model": "PG150FS01-2",
+    "size": "15",
+    "type": "IPS",
+    "res": "1024×768 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES02-2",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT01-3",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT01-4",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN245ES01-2",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN215CS01-2",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN315CU01-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT04-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS03-2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB140DS01-6",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN340FU02-3",
+    "size": "34",
+    "type": "VA",
+    "res": "3440×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT02-D",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES03-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GS01-3",
+    "size": "50",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB160DS01-1",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT09-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GT02-6",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140DS03-1",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES06-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN215CT03-1",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS06-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES04-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT02-3",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT02-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-3",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-1",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320GT01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM059HS01-1",
+    "size": "5.9",
+    "type": "IPS",
+    "res": "720×1440 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM062HS01-1",
+    "size": "6.2",
+    "type": "IPS",
+    "res": "720×1520 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-6",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM065HS02-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC238CT01-2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB116AN01-2",
+    "size": "11.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN195BN01-1",
+    "size": "19.5",
+    "type": "TN",
+    "res": "1600×900 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320CT01-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QP080BS01-1",
+    "size": "8",
+    "type": "IPS",
+    "res": "800×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270EU01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN215CS01-11",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN238CS03-10",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC860GS01-3",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM060HS01",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN215CS01-1",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CS03-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC156CS02-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MC156CS01-20",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC230KT01-1",
+    "size": "23",
+    "type": "VA",
+    "res": "1880×120 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN195BN01-3",
+    "size": "19.5",
+    "type": "TN",
+    "res": "1600×900 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270EU02-1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN315CU02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN315CU01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN315EU02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN315EU01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270CU02-1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CU02-1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QP070AS02-1",
+    "size": "7",
+    "type": "IPS",
+    "res": "1024×600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM065HS01-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC156CS02-1",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PCA70HS01-1",
+    "size": "107",
+    "type": "IPS",
+    "res": "5040×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN238CS03-30",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "HK215LEDS-01B",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "HK238LEDP-03B",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CS01-1",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT02-6",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM047KS01-1",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "750×1334 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB145LS01-1",
+    "size": "14.5",
+    "type": "IPS",
+    "res": "2560×1600 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM064HS02-1",
+    "size": "6.4",
+    "type": "IPS",
+    "res": "720×1560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM065HS04-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-4",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB140AN01-3",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QD028GT01-1",
+    "size": "2.8",
+    "type": "IPS",
+    "res": "240×320 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM066HS01-1",
+    "size": "6.6",
+    "type": "VA",
+    "res": "720×1612 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140AN01-6",
+    "size": "14",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC650GT01-1",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-2",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270CU01-6",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT400CT02-1",
+    "size": "40",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT400CT01-1",
+    "size": "40",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CT03-1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM065HS03-1",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM066HS02-1",
+    "size": "6.6",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT05-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PB156CS01-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT236AT05-1",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PCA00GT01-1",
+    "size": "100",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-15~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QD024GT01-1",
+    "size": "2.4",
+    "type": "IPS",
+    "res": "240×320 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QP090AS01-1",
+    "size": "9",
+    "type": "IPS",
+    "res": "1024×600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES01-3",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CT03-2",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS04-1 V1.3",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS04-1 V1.4",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PTA00GT01-1",
+    "size": "100",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT05-1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS03-5",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT05-3",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT860GS01-6",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC500GT04-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT06-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN215CT02-3",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GS02-4",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT05-4",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC940HT01-1",
+    "size": "94",
+    "type": "VA",
+    "res": "5120×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB140DN01-1",
+    "size": "14",
+    "type": "TN",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM063LS01-1",
+    "size": "6.3",
+    "type": "IPS",
+    "res": "540×1170 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM063LS02-1",
+    "size": "6.3",
+    "type": "IPS",
+    "res": "540×1170 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM064LS01-1",
+    "size": "6.4",
+    "type": "IPS",
+    "res": "540×1200 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN195BN01-10",
+    "size": "19.5",
+    "type": "TN",
+    "res": "1600×900 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN215CT02-2",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN215CT02-10",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN215CT02-20",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN215CT02-3",
+    "size": "21.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS04-1 V1.5",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CS03-4",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS06-2",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156CS05-2",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES03-2",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PTA00GT01-3",
+    "size": "100",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM067HS02-1",
+    "size": "6.7",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT07-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB160DS01-2",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MB156AN01-2",
+    "size": "15.6",
+    "type": "TN",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT400CT01-2",
+    "size": "40",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-A",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-D",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430GT01-C",
+    "size": "43",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT08-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM066HS04-1",
+    "size": "6.6",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QV070HS01-1",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480 ",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QV101BS01-1",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "720×1280 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT03-3",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT08-3",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT400CT02-2",
+    "size": "40",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500CT02-1",
+    "size": "50",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GS04-1",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GT02-H",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT02-6",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT02-A",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT02-F",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500CT02-2",
+    "size": "50",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270ES05-3",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270GS03-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QP110LS01-1",
+    "size": "11",
+    "type": "IPS",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC650GS02-4",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT04-8",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "-10~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM067HS06-1",
+    "size": "6.7",
+    "type": "IPS",
+    "res": "720×1600 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "RB116AS01-1",
+    "size": "12.6",
+    "type": "IPS",
+    "res": "1366×768 ",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN241CN01-2",
+    "size": "24.1",
+    "type": "TN",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN245CS02-2",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CS03-3",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN245CT01-3",
+    "size": "24.5",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT01-6",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN290HS01-1",
+    "size": "29",
+    "type": "IPS",
+    "res": "2560×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT400CT03-1",
+    "size": "40",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN215CS03-3",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500CT02-2 Ver2.0",
+    "size": "50",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GS01-3",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS01-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT02-5",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT01-2",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320CT01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-5",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CU01-2",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT01-3",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-4",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT02-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN238CT02-1",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT05-1",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320CT01-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT650GT02-3",
+    "size": "65",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270EU01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "2560×1440 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT01-1",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT236AT01-1",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT01-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "CM238C01",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT01-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT01-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT01-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT315AT01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT03-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT01-5",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT03-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-4",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT580GT02-1",
+    "size": "58",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT01-4",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-3",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT236AT02-5",
+    "size": "23.6",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT580GT02-2",
+    "size": "58",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT03-2",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270CS01-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-5",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT02-7",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT02-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC466KT01-1",
+    "size": "46.6",
+    "type": "VA",
+    "res": "3840×120 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CS01-2",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT03-3",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT03-1",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GT02-2",
+    "size": "55",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CS03-3",
+    "size": "43",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN270CU01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320AT04-2",
+    "size": "32",
+    "type": "VA",
+    "res": "1366×768 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270CU01-1",
+    "size": "27",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT320CT01-4",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT02-2",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PC320CT01-1",
+    "size": "32",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "MN195BN01-20",
+    "size": "19.5",
+    "type": "TN",
+    "res": "1600×900 ",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN270CS02-1",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT850GT02-3",
+    "size": "85",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT500GT05-2",
+    "size": "50",
+    "type": "VA",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PN215CS02-1",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "SN238CT01-5",
+    "size": "23.8",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT430CT03-4",
+    "size": "43",
+    "type": "VA",
+    "res": "1920×1080 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "PT550GS01-4",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160 ",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HKC",
+    "model": "QM063HS04-1",
+    "size": "6.3",
+    "type": "IPS",
+    "res": "720×1560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  }
+]
