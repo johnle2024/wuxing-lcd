@@ -758,7 +758,7 @@ document.addEventListener('DOMContentLoaded', panelModule.init);
     // 1. 异步加载外部 JSON
     async function initProductTable() {
         try {
-            const response = await fetch('./data/custom.json');
+            const response = await fetch('./custom.json');
             if (!response.ok) throw new Error('Failed to load data.json');
             allData = await response.json();
             handleFilter(); 
