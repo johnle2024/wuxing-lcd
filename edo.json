@@ -1,0 +1,1312 @@
+[
+  {
+    "brand": "EDO",
+    "model": "EC60QBC75.A",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF10QBP63.A",
+    "size": "15.1",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "750",
+    "workT": "",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC60QBC74.N",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB20QBC73.A",
+    "size": "11.2",
+    "type": "",
+    "res": "2560×1536 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF60UBA63.A",
+    "size": "15.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC60QBC74.B",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "ET00UBA62.A",
+    "size": "27",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1393AA62.A",
+    "size": "1.39",
+    "type": "",
+    "res": "400×400 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB00QBC73.A",
+    "size": "11",
+    "type": "",
+    "res": "1728×2368 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EE00QBA62.A",
+    "size": "14",
+    "type": "",
+    "res": "2880×1800 ",
+    "bri": "400",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EE0010A61.A",
+    "size": "14",
+    "type": "",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1393AA61.C",
+    "size": "1.39",
+    "type": "",
+    "res": "400×400 ",
+    "bri": "300",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QBC61.A",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~75°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC193BC73.D",
+    "size": "12.2",
+    "type": "",
+    "res": "2800×1840 ",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-30~83°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMK1",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E0954AK1.A",
+    "size": "0.95",
+    "type": "",
+    "res": "180×120 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E295FMM1",
+    "size": "3",
+    "type": "",
+    "res": "1080×1200 ",
+    "bri": "300",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1918AM3.A",
+    "size": "1.9",
+    "type": "",
+    "res": "240×536 ",
+    "bri": "350",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "EDO",
+    "model": "ET00UBA61.A",
+    "size": "27",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC80FSM63.A",
+    "size": "12.8",
+    "type": "",
+    "res": "1888×1728 ",
+    "bri": "600",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC60QBC74.C",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB20QBC71.A",
+    "size": "11.2",
+    "type": "",
+    "res": "2560×1536 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAC51.D",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "EDO",
+    "model": "EC60QBC75.D",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF60UBA69.A",
+    "size": "15.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "450",
+    "workT": "-30~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1392AM1.A",
+    "size": "1.39",
+    "type": "",
+    "res": "400×400 ",
+    "bri": "300",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "G499HBT1.B",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "300",
+    "workT": "-30~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "M800FBM1.A",
+    "size": "8",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E639FDC71.A",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2340 ",
+    "bri": "430",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1784AC61.A",
+    "size": "1.8",
+    "type": "",
+    "res": "368×448 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1417AK8.A",
+    "size": "1.4",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1194AA62.A",
+    "size": "1.2",
+    "type": "",
+    "res": "390×390 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-25~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E295FCA62.A",
+    "size": "3",
+    "type": "",
+    "res": "1080×1200 ",
+    "bri": "300",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1784AC63.A",
+    "size": "1.8",
+    "type": "",
+    "res": "368×448 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1394AA65.A",
+    "size": "1.39",
+    "type": "",
+    "res": "454×454 ",
+    "bri": "450",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1473AC41.A",
+    "size": "1.5",
+    "type": "",
+    "res": "194×368 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E639FDC41.B",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2340 ",
+    "bri": "430",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E590FCC51.A",
+    "size": "5.9",
+    "type": "",
+    "res": "1080×2220 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1604AC41.A",
+    "size": "1.6",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1644AC63.A",
+    "size": "1.64",
+    "type": "",
+    "res": "280×456 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1473AC63.B",
+    "size": "1.5",
+    "type": "",
+    "res": "194×368 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1952AC41.A",
+    "size": "2",
+    "type": "",
+    "res": "410×502 ",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB00QBC74.A",
+    "size": "11",
+    "type": "",
+    "res": "1728×2368 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1604AC61.A",
+    "size": "1.6",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QBC73.A",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E544FCC51.H",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QBC62.B",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "420",
+    "workT": "-20~70°C",
+    "storageT": "-40~75°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC60QBC75.B",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EC60QBC74.J",
+    "size": "12.6",
+    "type": "",
+    "res": "1600×2560 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QBC73.C",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QBC74.A",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "420",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EE50QBC73.A",
+    "size": "14.5",
+    "type": "",
+    "res": "3000×1876 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "G700FCP63.A",
+    "size": "7",
+    "type": "",
+    "res": "1920×1080 ",
+    "bri": "700",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E639FDC74.A",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2340 ",
+    "bri": "430",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E906QAC73.A",
+    "size": "9.1",
+    "type": "",
+    "res": "2400×1504 ",
+    "bri": "650",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EM60UBL63.A",
+    "size": "21.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E555HBQ2",
+    "size": "5.5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "300",
+    "workT": "-20~60°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMK3.C",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1392AM1.B",
+    "size": "1.39",
+    "type": "",
+    "res": "400×400 ",
+    "bri": "300",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1417AD5.B",
+    "size": "1.4",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMK1.C",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAK1.A",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAS1.A",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E295FMM2.A",
+    "size": "3",
+    "type": "",
+    "res": "1080×1200 ",
+    "bri": "300",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1394AA61.A",
+    "size": "1.39",
+    "type": "",
+    "res": "454×454 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E544FCC51.A",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1194AC64.A",
+    "size": "1.2",
+    "type": "",
+    "res": "390×390 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1644AC41.A",
+    "size": "1.64",
+    "type": "",
+    "res": "280×456 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1784AC41.A",
+    "size": "1.8",
+    "type": "",
+    "res": "368×448 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF60UBA65.A",
+    "size": "15.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1194AA64.A",
+    "size": "1.2",
+    "type": "",
+    "res": "390×390 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E160 FOG Panel",
+    "size": "1.6",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB00QBC61.A",
+    "size": "11",
+    "type": "",
+    "res": "1728×2368 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E510FCC53.A",
+    "size": "5.1",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "450",
+    "workT": "-20~60°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1434AC73.A",
+    "size": "1.43",
+    "type": "",
+    "res": "466×466 ",
+    "bri": "500",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB20QBC63.A",
+    "size": "11.2",
+    "type": "",
+    "res": "2560×1536 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E510FCC51.D",
+    "size": "5.1",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "450",
+    "workT": "-20~60°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E643FDC73.A",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E666FCC74.A",
+    "size": "6.7",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF10QBC63.A",
+    "size": "15.1",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E678FCE74.A",
+    "size": "6.8",
+    "type": "",
+    "res": "1080×2436 ",
+    "bri": "550",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF10QBP73.A",
+    "size": "15.1",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "800",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E403FTZ73.A",
+    "size": "4",
+    "type": "",
+    "res": "1080×1200 ",
+    "bri": "700",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EE001061.A",
+    "size": "14",
+    "type": "",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF25QBA63.A",
+    "size": "15.3",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "500",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EF60UBA61.A",
+    "size": "15.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E555HAA1",
+    "size": "5.5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "250",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1414AK68.A",
+    "size": "1.4",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E585FVM61.B",
+    "size": "5.8",
+    "type": "",
+    "res": "1125×2436 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E636FCC41.A",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2340 ",
+    "bri": "430",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E580FCC61.A",
+    "size": "5.8",
+    "type": "",
+    "res": "1125×2436 ",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QB61.A",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E120A390QSR",
+    "size": "1.2",
+    "type": "",
+    "res": "390×390 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E544FCC51.G",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E643FDE51.A",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": ""
+  },
+  {
+    "brand": "EDO",
+    "model": "E636FCC51.E",
+    "size": "6.4",
+    "type": "",
+    "res": "1080×2340 ",
+    "bri": "430",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E544FCC51.D",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E677FTZ51.A",
+    "size": "6.8",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB50QBC62.C",
+    "size": "11.5",
+    "type": "",
+    "res": "2560×1600 ",
+    "bri": "420",
+    "workT": "-20~70°C",
+    "storageT": "-40~75°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E666FCC41.A",
+    "size": "6.7",
+    "type": "",
+    "res": "1080×2400 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E4104AC63.A",
+    "size": "4.1",
+    "type": "",
+    "res": "568×1232 ",
+    "bri": "280",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E906QAC61.A",
+    "size": "9.1",
+    "type": "",
+    "res": "2400×1504 ",
+    "bri": "650",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EE0010A62.A",
+    "size": "14",
+    "type": "",
+    "res": "1920×1200 ",
+    "bri": "400",
+    "workT": "-10~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1434AC31.B",
+    "size": "1.43",
+    "type": "",
+    "res": "466×466 ",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1954AC31.B",
+    "size": "2",
+    "type": "",
+    "res": "410×502 ",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1325AC31.C",
+    "size": "1.32",
+    "type": "",
+    "res": "466×466 ",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAC51.A",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "M499HBU1",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-40~70°C",
+    "storageT": "-50~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1417AK1.A",
+    "size": "1.4",
+    "type": "",
+    "res": "320×360 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E559FMM1",
+    "size": "5.6",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "310",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "EDO",
+    "model": "E595HAA1",
+    "size": "6",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "250",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "EDO",
+    "model": "E499HAA1",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "250",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "EDO",
+    "model": "M595HBU1",
+    "size": "6",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E499HAM1",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "310",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E499HAQ1",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "310",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E499HAP1",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "560",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMM1",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "300",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E499HAK3",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "365",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMS1",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAD4.A",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E295FMM2",
+    "size": "3",
+    "type": "",
+    "res": "1080×1200 ",
+    "bri": "300",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMDE",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E1195AM2",
+    "size": "1.2",
+    "type": "",
+    "res": "390×390 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E549FMK2.C",
+    "size": "5.5",
+    "type": "",
+    "res": "1080×1920 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E555HAM1",
+    "size": "5.5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "310",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E156UBA63.A",
+    "size": "15.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "440",
+    "workT": "-20~70°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAQ1.A",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "EB11.00QBC1723A",
+    "size": "11",
+    "type": "",
+    "res": "1728×2368 ",
+    "bri": "350",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "15R6GJ-FSO-A2",
+    "size": "15.6",
+    "type": "",
+    "res": "3840×2160 ",
+    "bri": "440",
+    "workT": "-40~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E295FCA61.A",
+    "size": "3",
+    "type": "",
+    "res": "1080×1200 ",
+    "bri": "120",
+    "workT": "-40~85°C",
+    "storageT": "-55~125°C"
+  },
+  {
+    "brand": "EDO",
+    "model": "E497HAC31.A",
+    "size": "5",
+    "type": "",
+    "res": "720×1280 ",
+    "bri": "350",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  }
+]
