@@ -1,0 +1,1692 @@
+[
+  {
+    "no": "1",
+    "size": "0.96",
+    "res": "80x160",
+    "type": "IPS",
+    "lum": "200",
+    "iface": "SPI",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "2",
+    "size": "0.99",
+    "res": "128x115",
+    "type": "IPS Round",
+    "lum": "350",
+    "iface": "SPI/8BIT MCU 24PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "3",
+    "size": "1.3",
+    "res": "240x240",
+    "type": "IPS Round",
+    "lum": "500",
+    "iface": "8BIT MUC/ SPI",
+    "top": "-10-60",
+    "tst": "-20-70"
+  },
+  {
+    "no": "4",
+    "size": "1.3",
+    "res": "240x240",
+    "type": "IPS Square",
+    "lum": "350",
+    "iface": "SPI/8BIT MCU 24PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "5",
+    "size": "1.54",
+    "res": "320x320",
+    "type": "IPS Square",
+    "lum": "380",
+    "iface": "1 LANE MIPI 14PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "6",
+    "size": "1.77",
+    "res": "128x160",
+    "type": "TN",
+    "lum": "220",
+    "iface": "8BIT MCU",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "7",
+    "size": "2",
+    "res": "240x240",
+    "type": "IPS",
+    "lum": "250",
+    "iface": "RGB/MCU/SPI 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "8",
+    "size": "2",
+    "res": "320x240",
+    "type": "IPS",
+    "lum": "250",
+    "iface": "RGB/MCU/SPI 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "9",
+    "size": "2.1",
+    "res": "480x480",
+    "type": "IPS Round",
+    "lum": "600",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "10",
+    "size": "2.3",
+    "res": "480x320",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "2 LANE MIPI 27PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "11",
+    "size": "2.4",
+    "res": "240x320",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB/MCU/SPI 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "12",
+    "size": "2.7",
+    "res": "240x240",
+    "type": "IPS Square",
+    "lum": "700",
+    "iface": "RGB 16bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "13",
+    "size": "2.76",
+    "res": "480x480",
+    "type": "IPS Round",
+    "lum": "280",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "14",
+    "size": "2.8",
+    "res": "240x320",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "15",
+    "size": "2.8",
+    "res": "240x320",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "16",
+    "size": "2.8",
+    "res": "240x320",
+    "type": "TN",
+    "lum": "350",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "17",
+    "size": "2.95",
+    "res": "480x854",
+    "type": "IPS",
+    "lum": "350",
+    "iface": "2 LANE MIPI 20PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "18",
+    "size": "2.95",
+    "res": "480x854",
+    "type": "IPS",
+    "lum": "350",
+    "iface": "SPI+24BIT RGB 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "19",
+    "size": "3",
+    "res": "360x640",
+    "type": "IPS Bar",
+    "lum": "350",
+    "iface": "RGB/MIPI 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "20",
+    "size": "3.1",
+    "res": "480x800",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "2 LANE MIPI 27PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "21",
+    "size": "3.4",
+    "res": "800x800",
+    "type": "IPS Round",
+    "lum": "1000",
+    "iface": "4 LANE MIPI 30PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "22",
+    "size": "3.45",
+    "res": "340x800",
+    "type": "IPS Bar",
+    "lum": "400",
+    "iface": "RGB 18bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "23",
+    "size": "3.5",
+    "res": "240x320",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "24",
+    "size": "3.5",
+    "res": "320x480",
+    "type": "TN",
+    "lum": "330",
+    "iface": "RGB 18bit 39PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "25",
+    "size": "3.5",
+    "res": "320x480",
+    "type": "IPS",
+    "lum": "320",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "26",
+    "size": "3.5",
+    "res": "320x480",
+    "type": "IPS",
+    "lum": "250",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "27",
+    "size": "3.5",
+    "res": "320x480",
+    "type": "IPS",
+    "lum": "650",
+    "iface": "RGB/MCU/SPI 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "28",
+    "size": "3.5",
+    "res": "320x480",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "RGB/MCU/SPI 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "29",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "320",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "30",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "350",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "31",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "280",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "32",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "280",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "33",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "700",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "34",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "650",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "35",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "TN",
+    "lum": "700",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "36",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "RGB888 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "37",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "38",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "IPS",
+    "lum": "900",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "39",
+    "size": "3.5",
+    "res": "320x240",
+    "type": "IPS",
+    "lum": "900",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "40",
+    "size": "3.5",
+    "res": "640x480",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "41",
+    "size": "3.5",
+    "res": "640x480",
+    "type": "IPS",
+    "lum": "320",
+    "iface": "RGB 24bit 54PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "42",
+    "size": "3.5",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "250",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "43",
+    "size": "3.66",
+    "res": "240x480",
+    "type": "IPS Bar",
+    "lum": "700",
+    "iface": "MCU/RGB 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "44",
+    "size": "3.9",
+    "res": "480x128",
+    "type": "IPS Bar",
+    "lum": "1000",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "45",
+    "size": "3.97",
+    "res": "480x800",
+    "type": "IPS",
+    "lum": "350",
+    "iface": "SPI+24BIT RGB 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "46",
+    "size": "3.97",
+    "res": "480x800",
+    "type": "IPS",
+    "lum": "350",
+    "iface": "SPI+24BIT RGB 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "47",
+    "size": "3.99",
+    "res": "400x960",
+    "type": "IPS Bar",
+    "lum": "450",
+    "iface": "2 LANE MIPI 30PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "48",
+    "size": "4",
+    "res": "480x480",
+    "type": "IPS Square",
+    "lum": "400",
+    "iface": "RGB 18bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "49",
+    "size": "4",
+    "res": "720x720",
+    "type": "IPS Square",
+    "lum": "500",
+    "iface": "2 LANE MIPI 30PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "50",
+    "size": "4",
+    "res": "720x720",
+    "type": "IPS Round",
+    "lum": "400",
+    "iface": "4 LANE MIPI 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "51",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "52",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "250",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "53",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "250",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "54",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "55",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "600",
+    "iface": "RGB 24bit 51PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "56",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "57",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "420",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "58",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "420",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "59",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "1000",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "60",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "800",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "61",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "800",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "62",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "63",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "64",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "65",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "66",
+    "size": "4.3",
+    "res": "480x272",
+    "type": "IPS",
+    "lum": "850",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "67",
+    "size": "4.3",
+    "res": "480x800",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "SPI+24BIT RGB",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "68",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "380",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "69",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "900",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "70",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "750",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "71",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "800",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "72",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "73",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "420",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "74",
+    "size": "4.3",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "420",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "75",
+    "size": "4.6",
+    "res": "800x320",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "76",
+    "size": "5",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "77",
+    "size": "5",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "78",
+    "size": "5",
+    "res": "480x272",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "79",
+    "size": "5",
+    "res": "480x272",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "80",
+    "size": "5",
+    "res": "640x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "81",
+    "size": "5",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "82",
+    "size": "5",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "83",
+    "size": "5",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "84",
+    "size": "5",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "85",
+    "size": "5",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "1000",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "86",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "550",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "87",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "88",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "89",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "850",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "90",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "700",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "91",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "92",
+    "size": "5",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "850",
+    "iface": "RGB 24bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "93",
+    "size": "5.65",
+    "res": "640x480",
+    "type": "IPS",
+    "lum": "270",
+    "iface": "RGB 24bit 50PIN DE Mode",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "94",
+    "size": "5.65",
+    "res": "640x480",
+    "type": "IPS",
+    "lum": "350",
+    "iface": "RGB 18bit 40PIN DE Mode",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "95",
+    "size": "5.7",
+    "res": "640x480",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB 18bit 40PIN DE Mode",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "96",
+    "size": "5.7",
+    "res": "640x480",
+    "type": "IPS",
+    "lum": "420",
+    "iface": "RGB 18bit 40PIN DE Mode",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "97",
+    "size": "6.8",
+    "res": "480x1280",
+    "type": "IPS Bar",
+    "lum": "450",
+    "iface": "4 LANE MIPI 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "98",
+    "size": "7",
+    "res": "280x1424",
+    "type": "IPS Bar",
+    "lum": "350",
+    "iface": "4 LANE MIPI 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "99",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "350",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "100",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-55",
+    "tst": "-20-60"
+  },
+  {
+    "no": "101",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "102",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "250",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "103",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "250",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "104",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "105",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "800",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "106",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "107",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "300",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-20-55",
+    "tst": "-20-60"
+  },
+  {
+    "no": "108",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "550",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "109",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "480",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "110",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "111",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "1000",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "112",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "850",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "113",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "850",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "114",
+    "size": "7",
+    "res": "800x480",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 50PIN Long FPC",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "115",
+    "size": "7",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "116",
+    "size": "7",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "430",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "117",
+    "size": "7",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "450",
+    "iface": "RGB 24bit 50PIN Short FPC",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "118",
+    "size": "7",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB 18bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "119",
+    "size": "7",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 6/8bit 20PIN",
+    "top": "-30-85",
+    "tst": "-35-85"
+  },
+  {
+    "no": "120",
+    "size": "7",
+    "res": "800x480",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "LVDS 6/8bit 20PIN",
+    "top": "-30-85",
+    "tst": "-35-85"
+  },
+  {
+    "no": "121",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "300",
+    "iface": "",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "122",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "500",
+    "iface": "",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "123",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "400",
+    "iface": "",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "124",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "420",
+    "iface": "",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "125",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "500",
+    "iface": "LVDS 20PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "126",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "127",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "128",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "129",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "420",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "130",
+    "size": "7",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "550",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "131",
+    "size": "7",
+    "res": "1080x1080",
+    "type": "IPS Round",
+    "lum": "350",
+    "iface": "4 LANE MIPI 30PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "132",
+    "size": "7.8",
+    "res": "400x1280",
+    "type": "IPS",
+    "lum": "600",
+    "iface": "4 LANE MIPI 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "133",
+    "size": "8",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "500",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "134",
+    "size": "8",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "135",
+    "size": "8",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "1200",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "136",
+    "size": "8",
+    "res": "800x1280",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "4 LANE MIPI 40PIN",
+    "top": "-20-60",
+    "tst": "-30-80"
+  },
+  {
+    "no": "137",
+    "size": "8",
+    "res": "800x1280",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "4 LANE MIPI 31PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "138",
+    "size": "8",
+    "res": "1024x768",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "139",
+    "size": "8",
+    "res": "1024x768",
+    "type": "IPS",
+    "lum": "250",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "140",
+    "size": "10.1",
+    "res": "800x1280",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "4 LANE MIPI 31PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "141",
+    "size": "10.1",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "530",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "142",
+    "size": "10.1",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "450",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "143",
+    "size": "10.1",
+    "res": "1024x600",
+    "type": "TN",
+    "lum": "380",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "144",
+    "size": "10.1",
+    "res": "1024x600",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "145",
+    "size": "10.1",
+    "res": "1024x600",
+    "type": "IPS",
+    "lum": "420",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "146",
+    "size": "10.1",
+    "res": "1024x600",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "RGB 24bit 50PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "147",
+    "size": "10.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "330",
+    "iface": "8BIT LVDS 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "148",
+    "size": "10.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "149",
+    "size": "10.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "850",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-30-85",
+    "tst": "-30-85"
+  },
+  {
+    "no": "150",
+    "size": "10.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "151",
+    "size": "10.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "LVDS 6/8bit 40PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "152",
+    "size": "10.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "300",
+    "iface": "HDMI 19PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "153",
+    "size": "10.1",
+    "res": "1920x1200",
+    "type": "IPS",
+    "lum": "1200",
+    "iface": "LVDS 2CHANNEL 8BIT 45PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "154",
+    "size": "10.4",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "350",
+    "iface": "LVDS 8bit 20PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "155",
+    "size": "10.4",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "400",
+    "iface": "RGB 24bit 60PIN",
+    "top": "-10-60",
+    "tst": "-20-70"
+  },
+  {
+    "no": "156",
+    "size": "10.4",
+    "res": "1024x768",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 6/8bit 30PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "157",
+    "size": "11.6",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "500",
+    "iface": "eDP 30PIN",
+    "top": "0-70",
+    "tst": "-10-70"
+  },
+  {
+    "no": "158",
+    "size": "12.1",
+    "res": "800x600",
+    "type": "TN",
+    "lum": "400",
+    "iface": "LVDS 6/8bit 20PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "159",
+    "size": "12.1",
+    "res": "1024x768",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 6/8bit 20PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "160",
+    "size": "12.1",
+    "res": "1024x768",
+    "type": "IPS",
+    "lum": "600",
+    "iface": "LVDS 6/8bit 30PIN",
+    "top": "-30-70",
+    "tst": "-40-80"
+  },
+  {
+    "no": "161",
+    "size": "12.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "550",
+    "iface": "LVDS 6/8bit 30PIN",
+    "top": "-20-70",
+    "tst": "-20-70"
+  },
+  {
+    "no": "162",
+    "size": "12.1",
+    "res": "1280x800",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 8bit 40PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "163",
+    "size": "13.3",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "400",
+    "iface": "",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "164",
+    "size": "15",
+    "res": "1024x768",
+    "type": "IPS",
+    "lum": "450",
+    "iface": "LVDS 8bit 20PIN",
+    "top": "-20-70",
+    "tst": "-30-80"
+  },
+  {
+    "no": "165",
+    "size": "15.6",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 2CHANNEL 8BIT 40PIN",
+    "top": "-30-85",
+    "tst": "-40-90"
+  },
+  {
+    "no": "166",
+    "size": "15.6",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 2CHANNEL 8BIT 40PIN",
+    "top": "-30-80",
+    "tst": "-30-85"
+  },
+  {
+    "no": "167",
+    "size": "15.6",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "850",
+    "iface": "LVDS 2CHANNEL 8BIT 40PIN",
+    "top": "-30-80",
+    "tst": "-30-85"
+  },
+  {
+    "no": "168",
+    "size": "18.5",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "1500",
+    "iface": "LVDS 2CHANNEL 30PIN",
+    "top": "-30-80",
+    "tst": "-30-80"
+  },
+  {
+    "no": "169",
+    "size": "21.5",
+    "res": "1920x1080",
+    "type": "IPS",
+    "lum": "1000",
+    "iface": "LVDS 2CHANNEL 30PIN",
+    "top": "-20-70",
+    "tst": "-30-70"
+  }
+]
