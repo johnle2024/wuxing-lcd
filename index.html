@@ -1,1 +1,1186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <title>伍行电子 WUXING ELECTRONIC | 全球显示资源集成商</title>
+    <style>
+        html { scroll-behavior: smooth; }
+        /* 磨砂玻璃导航栏 */
+        .glass-nav { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); }
+        .hero-bg { background: linear-gradient(rgba(15, 23, 42, 0.8), rgba(30, 58, 138, 0.8)), url('https://images.unsplash.com/photo-1550741113-5744f67ad98a?q=80&w=1920') center/cover; }
+        .text-gradient { background: linear-gradient(to right, #3b82f6, #06b6d4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .card-hover:hover { transform: translateY(-5px); box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); }
+        
+        /* 核心语言切换显示逻辑：严禁修改 */
+        body[data-lang="en"] .lang-cn { display: none !important; }
+        body[data-lang="cn"] .lang-en { display: none !important; }
 
+        /* 微信二维码弹窗平滑动画 */
+        .qr-popup { 
+            display: none; 
+            animation: fadeIn 0.2s ease-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+
+<body class="bg-slate-50 text-slate-900 font-sans" data-lang="en">
+
+    <nav class="fixed w-full z-50 glass-nav border-b border-gray-200 shadow-sm transition-all">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            
+            <div class="text-2xl font-black text-blue-900 tracking-tighter">
+                WUXING <span class="text-blue-600">ELECTRONIC</span>
+            </div>
+
+            <div class="hidden lg:flex space-x-8 text-sm font-bold text-gray-600">
+                <a href="#about" class="hover:text-blue-600">
+                    <span class="lang-cn">公司简介</span><span class="lang-en">About Us</span>
+                </a>
+                <a href="#applications" class="hover:text-blue-600">
+                    <span class="lang-cn">应用领域</span><span class="lang-en">Applications</span>
+                </a>
+                <a href="#factory" class="hover:text-blue-600">
+                    <span class="lang-cn">核心实力</span><span class="lang-en">Core Strengths</span>
+                </a>
+                <a href="#custom" class="hover:text-blue-600">
+                    <span class="lang-cn">定制方案</span><span class="lang-en">Custom Solutions</span>
+                </a>
+            </div>
+
+            <div class="flex items-center space-x-5">
+                
+                <div class="hidden md:flex items-center space-x-4 border-r pr-5 border-gray-200">
+                    <a href="https://wa.me/message/M6UHWFSHN2JNG1" target="_blank" class="text-gray-500 hover:text-green-500 transition-colors" title="WhatsApp">
+                        <i class="fa-brands fa-whatsapp text-xl"></i>
+                    </a>
+
+                    <div class="relative group cursor-pointer text-gray-500 hover:text-green-600">
+                        <i class="fa-brands fa-weixin text-xl"></i>
+                        <div class="qr-popup absolute top-full right-0 mt-3 group-hover:block bg-white p-2 shadow-2xl border rounded-lg z-50 w-32">
+                            <img src="https://img.lcdlight.qzz.io/file/1773992782752_187c905365e234a62d98f03a75fb96d8.jpg" alt="WeChat QR" class="w-full">
+                            <p class="text-[10px] text-center mt-1 text-gray-400">Scan to Chat</p>
+                        </div>
+                    </div>
+
+                    <a href="mailto:jacy@awuxing.com.cn" class="text-gray-500 hover:text-blue-600 transition-colors" title="Email">
+                        <i class="fa-solid fa-envelope text-lg"></i>
+                    </a>
+                </div>
+
+                <button onclick="toggleLang()" class="text-xs font-bold border border-gray-300 px-3 py-1 rounded hover:bg-gray-100">
+                    <span class="lang-cn">EN</span><span class="lang-en">中文</span>
+                </button>
+
+                <a href="#wuxing-inquiry-box" class="bg-blue-600 text-white px-5 py-2 text-sm font-bold rounded hover:bg-blue-700 transition shadow-lg shadow-blue-200">
+                    <span class="lang-cn">获取方案</span><span class="lang-en">Get Quote</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+    <script>
+        function toggleLang() {
+            const body = document.body;
+            // 切换语言属性
+            const newLang = body.getAttribute('data-lang') === 'en' ? 'cn' : 'en';
+            body.setAttribute('data-lang', newLang);
+            
+            // 同步更新搜索框 placeholder
+            const searchInput = document.getElementById('tableSearch');
+            if(searchInput) {
+                searchInput.placeholder = newLang === 'en' ? "Filter by size" : "输入尺寸";
+            }
+        }
+        // 粘贴这个关闭弹窗的函数
+        function closeModal() {
+            const modal = document.getElementById('contactModal');
+            if (modal) {
+                modal.classList.add('hidden'); // 点击关闭按钮后隐藏弹窗
+            }
+        }
+    </script>
+<div id="contactModal" class="fixed inset-0 z-[9999] flex items-center justify-center bg-black/50 backdrop-blur-sm">
+    <div class="relative bg-white rounded-2xl shadow-2xl p-8 w-[350px] transform transition-all animate-in zoom-in duration-300">
+        
+        <button onclick="closeModal()" class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors">
+            <i class="fas fa-times text-xl"></i>
+        </button>
+
+        <div class="text-center">
+            <div class="mb-6">
+                <p class="lang-cn text-lg font-bold text-slate-800 leading-snug">您需要的显示方案，我们都有。<br><span class="text-blue-600 text-sm">建议保存联系方式，随时咨询。</span></p>
+                <p class="lang-en text-lg font-bold text-slate-800 leading-snug">Comprehensive display solutions, tailored to your needs.<br><span class="text-blue-600 text-sm italic">Connect with us for expert technical support.</span></p>
+            </div>
+
+            <div class="space-y-4">
+                <a href="https://wa.me/message/M6UHWFSHN2JNG1" target="_blank" class="flex items-center justify-center space-x-3 w-full py-3 bg-[#25D366] text-white rounded-xl font-bold hover:opacity-90 transition shadow-lg shadow-green-100">
+                    <i class="fab fa-whatsapp text-xl"></i>
+                    <span>WhatsApp</span>
+                </a>
+
+                <div class="relative group">
+                    <div class="flex items-center justify-center space-x-3 w-full py-3 bg-[#07C160] text-white rounded-xl font-bold cursor-pointer hover:opacity-90 transition shadow-lg shadow-green-100">
+                        <i class="fab fa-weixin text-xl"></i>
+                        <span class="lang-cn">微信联系</span>
+                        <span class="lang-en">WeChat</span>
+                    </div>
+                    <div class="absolute inset-0 bg-white rounded-xl opacity-0 group-hover:opacity-100 flex flex-col items-center justify-center transition-opacity border-2 border-[#07C160] z-10">
+                        <img src="https://img.lcdlight.qzz.io/file/1773992782752_187c905365e234a62d98f03a75fb96d8.jpg" alt="WeChat" class="w-24 h-24">
+                        <p class="text-[10px] mt-1 text-gray-500 font-bold lang-cn">保存二维码扫码</p>
+                        <p class="text-[10px] mt-1 text-gray-500 font-bold lang-en">Scan or Save to Add</p>
+                    </div>
+                </div>
+
+                <a href="mailto:jacy@awuxing.com.cn" class="flex items-center justify-center space-x-3 w-full py-3 bg-blue-600 text-white rounded-xl font-bold hover:bg-blue-700 transition shadow-lg shadow-blue-100">
+                    <i class="fas fa-envelope"></i>
+                    <span class="lang-cn">获取报价</span>
+                    <span class="lang-en">Get Quote</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+    <section id="about" class="hero-bg min-h-screen flex items-center pt-20">
+    <div class="max-w-7xl mx-auto px-6 text-center text-white">
+        <p class="text-blue-400 font-bold tracking-widest mb-4 uppercase text-sm">
+            <span class="lang-cn">深耕行业15载 · 全球显示器件解决方案提供商</span>
+            <span class="lang-en">15 Years Expertise · Global Display Solutions Provider</span>
+        </p>
+        <h1 class="text-5xl md:text-7xl font-extrabold leading-tight mb-8">
+            <span class="lang-cn">整合全球原厂资源 <br><span class="text-gradient">定义显示交互未来</span></span>
+            <span class="lang-en">Integrating Global Display Resources<br><span class="text-gradient">DRIVING THE FUTURE OF HMI</span></span>
+        </h1>
+        <p class="text-gray-300 text-lg max-w-3xl mx-auto mb-10 leading-relaxed">
+            <span class="lang-cn">伍行电子成立于2017年，核心团队拥有15年以上液晶显示及IC半导体行业经验。我们与京东方(BOE)、天马(Tianma)、华星光电(CSOT)、友达(AUO)、三星(Samsung)等全球原厂保持深度战略合作。我们不只是面板的搬运工，更是具备自有产线、深耕全产业链的集成专家。</span>
+            <span class="lang-en">Established in 2017, Wuxing Electronic is powered by a core team with over 15 years of deep-seated expertise in LCD and IC semiconductor industries. We leverage strategic alliances with global Tier-1 pioneers, including BOE, Tianma, CSOT, AUO, and Samsung. Beyond traditional distribution, we are high-level integration specialists supported by our proprietary, state-of-the-art manufacturing facilities.</span>
+        </p>
+        <div class="flex justify-center space-x-6">
+            <a href="#panel-library" class="bg-white text-blue-900 px-8 py-4 font-bold rounded hover:bg-gray-100 transition shadow-lg">
+                <span class="lang-cn">进入参数查询中心</span><span class="lang-en">Product Specs Finder</span>
+            </a>
+            <a href="#factory" class="border-2 border-white/50 text-white px-8 py-4 font-bold rounded hover:bg-white/10 transition">
+                <span class="lang-cn">了解自有代工实力</span><span class="lang-en">Advanced Manufacturing</span>
+            </a>
+        </div>
+    </div>
+</section>
+<section class="bg-white py-12 border-b border-slate-100 relative z-10">
+    <div class="max-w-7xl mx-auto px-6">
+        
+        <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-4">
+            
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775023579982_tft-lcd-display-s.jpg" 
+                         alt="TFT" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">TFT 液晶屏</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">TFT LCD</span>
+                </p>
+            </div>
+
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775025744435_oled-display-module-s.jpg" 
+                         alt="OLED" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">OLED 显示屏</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">OLED Display</span>
+                </p>
+            </div>
+
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775023579982_tft-lcd-display-s.jpg" 
+                         alt="LCD" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">LCD 显示屏</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">LCD Display</span>
+                </p>
+            </div>
+
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775025908661_smart-display-s.jpg" 
+                         alt="Smart" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">智能屏</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">Smart Display</span>
+                </p>
+            </div>
+
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775025980552_hmi-display-s.jpg" 
+                         alt="HMI" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">人机界面</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">HMI Display</span>
+                </p>
+            </div>
+
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775026018194_e-paper-display-s.jpg" 
+                         alt="E-paper" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">电子纸</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">E-paper</span>
+                </p>
+            </div>
+
+            <div class="group cursor-pointer">
+                <div class="bg-white rounded-2xl mb-4 flex items-center justify-center aspect-[3/2] overflow-hidden border border-slate-100 shadow-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-xl group-hover:border-blue-200">
+                    <img src="https://img.lcdlight.qzz.io/file/1775026043226_system-integrated-solutuon-s.jpg" 
+                         alt="System" class="w-full h-full object-cover filter-none transition-all duration-300">
+                </div>
+                <p class="text-center">
+                    <span class="lang-cn block text-[13px] font-extrabold text-slate-800 leading-snug">系统整合</span>
+                    <span class="lang-en block text-xs font-medium text-slate-500 mt-1 uppercase tracking-tight">Solutions</span>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<section id="factory" class="py-24 bg-white overflow-hidden">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="flex flex-col lg:flex-row gap-16 items-start">
+            
+            <div class="lg:w-1/2 sticky top-24">
+                <p class="text-blue-600 font-bold tracking-widest mb-4 uppercase text-sm">
+                    <span class="lang-cn">自有现代化生产基地</span>
+                    <span class="lang-en">State-of-the-Art Manufacturing Center</span>
+                </p>
+                <h2 class="text-4xl font-black text-slate-900 mb-8 leading-tight">
+                    <span class="lang-cn">23,700m² 智造中心<br>专注高品质显示方案定制</span>
+                    <span class="lang-en">23,700m² Smart Facility Focused on Bespoke Display Solutions</span>
+                </h2>
+                
+                <div class="space-y-6 text-slate-600">
+                    <p class="leading-relaxed text-lg">
+                        <span class="lang-cn">伍行电子拥有超2万平米标准化厂房，核心产线配备千级无尘净化系统。我们通过了 <b>ISO9001:2015</b> 及 <b>IATF16949</b> 汽车行业质量体系认证，确保每一块屏幕都符合严苛的工业与车载标准。</span>
+                        <span class="lang-en">Wuxing Electronic operates a 23,700m² production base featuring Class 1000 dust-free environments. Fully compliant with ISO 9001 and IATF 16949, our manufacturing processes guarantee rigorous adherence to industrial and automotive-grade standards.</span>
+                    </p>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 pt-6">
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center text-blue-600">
+                                <i class="fas fa-layer-group"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-slate-800"><span class="lang-cn">20+ 全自动生产线</span><span class="lang-en">20+ Automated Production Lines</span></h4>
+                                <p class="text-xs mt-1 text-slate-500 italic">Fully Integrated COG / FOG / Assembly Processes</p>
+                            </div>
+                        </div>
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center text-blue-600">
+                                <i class="fas fa-flask"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-slate-800"><span class="lang-cn">可靠性实验室</span><span class="lang-en">In-house Reliability Testing</span></h4>
+                                <p class="text-xs mt-1 text-slate-500 italic">High/Low Temperature, Humidity & Vibration Stress Tests</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg:w-1/2">
+                <div class="grid grid-cols-2 gap-4">
+                    <div class="group relative rounded-2xl overflow-hidden shadow-lg bg-slate-100 aspect-[4/5]">
+                        <img src="https://img.lcdlight.qzz.io/file/1773987361137_image.png" alt="COG Line" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <div class="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/80 to-transparent">
+                            <p class="text-white text-xs font-bold uppercase tracking-wider">Advanced Equipment</p>
+                            <h4 class="text-white text-sm font-medium">
+                                <span class="lang-cn">全自动 COG 绑定线</span><span class="lang-en">Auto COG Bonding</span>
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="group relative rounded-2xl overflow-hidden shadow-lg bg-slate-100 aspect-[4/5] mt-8">
+                        <img src="https://img.lcdlight.qzz.io/file/1773987551593_image.png" alt="Clean Room" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <div class="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/80 to-transparent">
+                            <p class="text-white text-xs font-bold uppercase tracking-wider">Clean Environment</p>
+                            <h4 class="text-white text-sm font-medium">
+                                <span class="lang-cn">千级无尘组装车间</span><span class="lang-en">Class 1000 Cleanroom</span>
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="group relative rounded-2xl overflow-hidden shadow-lg bg-slate-100 aspect-[4/5] -mt-8">
+                        <img src="https://img.lcdlight.qzz.io/file/1773987641267_image.png" alt="QC Testing" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <div class="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/80 to-transparent">
+                            <p class="text-white text-xs font-bold uppercase tracking-wider">Quality Control</p>
+                            <h4 class="text-white text-sm font-medium">
+                                <span class="lang-cn">自动点胶机</span><span class="lang-en">Automated Dispensing System</span>
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="group relative rounded-2xl overflow-hidden shadow-lg bg-slate-100 aspect-[4/5]">
+                        <img src="https://img.lcdlight.qzz.io/file/1773987694968_image.png" alt="Warehouse" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <div class="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/80 to-transparent">
+                            <p class="text-white text-xs font-bold uppercase tracking-wider">Stable Supply</p>
+                            <h4 class="text-white text-sm font-medium">
+                                <span class="lang-cn">恒温恒湿成品仓储</span><span class="lang-en">Controlled Warehouse</span>
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+    <section id="applications" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-4xl font-bold mb-4 text-slate-900 tracking-tight">
+                <span class="lang-cn">全场景应用领域</span><span class="lang-en">Comprehensive Application Solutions</span>
+            </h2>
+            <div class="h-1.5 w-20 bg-blue-600 mx-auto rounded-full mb-6"></div>
+            <p class="text-slate-500 text-lg">
+                <span class="lang-cn">基于15年的行业沉淀，为您提供覆盖全场景的专业显示方案</span>
+                <span class="lang-en">Leveraging 15 years of display expertise to deliver all-scenario professional solutions.</span>
+            </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773976969674_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-industry text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">工控显示</span><span class="lang-en">Industrial Control</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">涵盖7~15.6英寸等，宽温、高亮、高稳定性，适应恶劣工业环境。</span>
+                        <span class="lang-en">Range of 7-15.6" ruggedized displays with wide-temperature-capable and high-brightness for harsh environments.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773977117723_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-truck-medical text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">医疗显示</span><span class="lang-en">Medical Display</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">高清晰度、高对比度医疗模组，满足监护仪与内窥影像精准需求。</span>
+                        <span class="lang-en">High-definition modules with enhanced resolution and contrast for precise patient monitoring and diagnostic imaging.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773977470038_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-car text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">车载显示</span><span class="lang-en">Automotive Display</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">流媒体后视镜、曲面中控及车规级HUD显示，耐高低温性能卓越。</span>
+                        <span class="lang-en">Next-gen E-mirrors, curved digital clusters, and AR-HUDs featuring automotive-grade temperature durability.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773977961196_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-clock text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">智能穿戴</span><span class="lang-en">Wearables</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">AMOLED及高对比度VA模式，超低功耗，适配智能手表及手环。</span>
+                        <span class="lang-en">High-efficiency AMOLED and VA display modes optimized for ultra-low power consumption in smartwatches.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773977229287_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-building-columns text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">智慧金融</span><span class="lang-en">Smart Finance</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">ATM、自助查询机专用高亮度、高防爆寿命显示及触控集成。</span>
+                        <span class="lang-en">Range of high-brightness, vandal-resistant display solutions integrated into ATMs and kiosks.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773977331897_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-ship text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">航海航天</span><span class="lang-en">Marine</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">户外高亮阳光下可视、防盐雾腐蚀，适配航海雷达显示需求。</span>
+                        <span class="lang-en">Ruggedized sunlight-readable and salt-spray-resistant displays optimized for marine radar systems.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773978035955_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-book-open text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">电子纸</span><span class="lang-en">E-Paper</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">低功耗、全彩屏技术。</span>
+                        <span class="lang-en">Next-generation low-power full-color E-Paper technology optimized for efficient visual display solutions.</span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="group bg-slate-50 p-2 rounded-[2rem] border border-slate-100 hover:border-blue-500/30 hover:bg-white hover:shadow-xl hover:shadow-blue-500/5 transition-all duration-500 cursor-pointer">
+                <div class="relative overflow-hidden rounded-[1.8rem] aspect-video mb-6">
+                    <img src="https://img.lcdlight.qzz.io/file/1773979856068_image.png" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                </div>
+                <div class="px-5 pb-6">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                            <i class="fa-solid fa-gauge-high text-sm"></i>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-800">
+                            <span class="lang-cn">MLED显示屏</span><span class="lang-en">MLED Display</span>
+                        </h3>
+                    </div>
+                    <p class="text-sm text-slate-500 leading-relaxed">
+                        <span class="lang-cn">提供Mini/MicroLED显示产品与解决方案，具有高对比度、高亮度、高画质、节能等特点。</span>
+                        <span class="lang-en">High-performance Mini/MicroLED modes delivering superior contrast, high-brightness, and low-power-efficiency.</span>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section id="panel-library" class="py-24 bg-blue-50">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold mb-4 text-slate-800">
+                <span class="lang-cn">原厂面板库高级搜索</span>
+                <span class="lang-en">Original Panel Advanced Search</span>
+            </h2>
+            <p class="text-gray-500 max-w-2xl mx-auto">
+                <span class="lang-cn">支持型号精准搜索，或通过品牌与尺寸交叉筛选为您匹配最佳面板</span>
+                <span class="lang-en">Search by exact model or use filters to find your perfect panel.</span>
+            </p>
+        </div>
+
+        <div class="bg-white p-6 rounded-2xl shadow-xl border border-gray-100 mb-6">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
+                        <span class="lang-cn">面板型号搜索</span><span class="lang-en">Search Model</span>
+                    </label>
+                    <div class="relative">
+                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
+                            <i class="fa-solid fa-magnifying-glass text-xs"></i>
+                        </span>
+                        <input type="text" id="modelSearchInput" 
+                            placeholder="e.g. NV156FHM..." 
+                            class="block w-full pl-9 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-500 transition-all text-sm outline-none">
+                    </div>
+                </div>
+                
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
+                        <span class="lang-cn">品牌筛选</span><span class="lang-en">Brand Filter</span>
+                    </label>
+                    <select id="brandFilter" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer">
+                    </select>
+                </div>
+
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
+                        <span class="lang-cn">尺寸筛选</span><span class="lang-en">Size Filter</span>
+                    </label>
+                    <select id="sizeFilter" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer">
+                    </select>
+                </div>
+
+                <div class="pb-3 text-right">
+                    <div class="text-sm font-medium text-slate-500">
+                        <span class="lang-cn">匹配: <span id="matchCount" class="text-blue-600 font-bold text-lg">0</span> 项</span>
+                        <span class="lang-en">Matches: <span id="matchCountEn" class="text-blue-600 font-bold text-lg">0</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-6 px-4 py-3 bg-blue-50/80 border-l-4 border-blue-400 rounded-r-lg shadow-sm">
+            <p class="text-xs md:text-sm text-slate-600 flex items-start gap-2">
+                <i class="fa-solid fa-circle-info text-blue-500 mt-0.5"></i>
+                <span>
+                    <span class="lang-cn">注：本库包含部分已停产型号。如需查询其他品牌、未列出机型或获取最新库存信息，请联系在线专员获取详细支持。</span>
+                    <span class="lang-en">Note: This database includes some discontinued models. For other brands, unlisted models, or latest stock updates, please contact our specialists for detailed support.</span>
+                </span>
+            </p>
+        </div>
+
+        <div class="overflow-x-auto rounded-xl border border-gray-200 shadow-sm bg-white">
+            <table class="w-full text-left border-collapse min-w-[1100px]">
+                <thead id="panelTableHeader" class="bg-slate-800 text-white text-[11px] font-bold uppercase tracking-wider"></thead>
+                <tbody id="panelTableBody" class="text-[13px] divide-y divide-gray-100 text-slate-600"></tbody>
+            </table>
+        </div>
+
+        <div id="panelPagination" class="mt-8 flex justify-center items-center gap-6">
+            <button id="prevPage" class="p-2 w-10 h-10 flex items-center justify-center bg-white border rounded-full hover:shadow-md transition disabled:opacity-30">
+                <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            <span class="text-sm font-bold text-slate-700">
+                <span class="lang-cn">第 <span id="currPage">1</span> / <span id="totalPage">1</span> 页</span>
+                <span class="lang-en">Page <span id="currPageEn">1</span> of <span id="totalPageEn">1</span></span>
+            </span>
+            <button id="nextPage" class="p-2 w-10 h-10 flex items-center justify-center bg-white border rounded-full hover:shadow-md transition disabled:opacity-30">
+                <i class="fa-solid fa-chevron-right"></i>
+            </button>
+        </div>
+    </div>
+</section>
+
+<script>
+const panelModule = (function() {
+    const CONFIG = {
+        zh: {
+            headers: ['品牌', '面板型号', '尺寸', '液晶态', '分辨率', '亮度', '工作温度', '存储温度', '操作'],
+            allBrands: '所有品牌',
+            allSizes: '所有尺寸',
+            inquiry: '询价'
+        },
+        en: {
+            headers: ['Brand', 'Panel Model', 'Size', 'Type', 'Resolution', 'Brightness', 'Work Temp', 'Storage Temp', 'Action'],
+            allBrands: 'All Brands',
+            allSizes: 'All Sizes',
+            inquiry: 'Inquiry'
+        },
+        pageSize: 15,
+        dataFiles: ['./boe.json', './cost.json', './tianma.json', './hkc.json', './Innolux.json', './auo.json', './edo.json', './samsung.json', './Sharp.json', './HannStar.json', './LG.json']
+    };
+
+    let db = [];        // 原始总数据库
+    let filtered = [];  // 筛选后的数据
+    let page = 1;       
+    let timer;
+
+    const getLang = () => document.body.getAttribute('data-lang') === 'en' ? 'en' : 'zh';
+
+    async function init() {
+        try {
+            const res = await Promise.all(CONFIG.dataFiles.map(f => fetch(f)));
+            const data = await Promise.all(res.map(r => r.json()));
+            
+            // 数据清洗：剔除无效空行和0寸数据
+            db = data.flat().filter(i => i && i.brand && i.model && i.size && i.size != "0" && i.size != 0);
+            filtered = [...db];
+
+            renderHeader();
+            renderOptions();
+            renderTable();
+            bindEvents();
+            
+            // 监听语言切换
+            new MutationObserver(() => {
+                renderHeader();
+                renderOptions(true); 
+                renderTable();
+            }).observe(document.body, { attributes: true, attributeFilter: ['data-lang'] });
+
+        } catch (err) { console.error("Data Load Error:", err); }
+    }
+
+    function renderHeader() {
+        const h = CONFIG[getLang()].headers;
+        document.getElementById('panelTableHeader').innerHTML = `<tr>${h.map(t => `<th class="px-6 py-4">${t}</th>`).join('')}</tr>`;
+    }
+
+    function renderOptions(isSwitchingLang = false) {
+        const lang = CONFIG[getLang()];
+        const bSelect = document.getElementById('brandFilter');
+        const sSelect = document.getElementById('sizeFilter');
+
+        const curB = bSelect.value;
+        const curS = sSelect.value;
+
+        const bList = [...new Set(db.map(i => i.brand))].sort();
+        const sList = [...new Set(db.map(i => i.size))].sort((a,b) => parseFloat(a)-parseFloat(b));
+
+        bSelect.innerHTML = `<option value="">${lang.allBrands}</option>` + bList.map(v => `<option value="${v}">${v}</option>`).join('');
+        sSelect.innerHTML = `<option value="">${lang.allSizes}</option>` + sList.map(v => `<option value="${v}">${v}</option>`).join('');
+
+        if(isSwitchingLang) {
+            bSelect.value = curB;
+            sSelect.value = curS;
+        }
+    }
+
+    function renderTable() {
+        const lang = CONFIG[getLang()];
+        const body = document.getElementById('panelTableBody');
+        const start = (page - 1) * CONFIG.pageSize;
+        const pData = filtered.slice(start, start + CONFIG.pageSize);
+
+        body.innerHTML = pData.map(i => `
+            <tr class="hover:bg-blue-50/50 transition whitespace-nowrap">
+                <td class="px-6 py-4 font-medium">${i.brand}</td>
+                <td class="px-6 py-4 font-bold text-blue-700">${i.model}</td>
+                <td class="px-6 py-4">${i.size}</td>
+                <td class="px-6 py-4">
+    ${i.type ? `<span class="px-2 py-0.5 bg-slate-100 rounded text-[10px]">${i.type}</span>` : ''}
+</td>
+                <td class="px-6 py-4 font-mono">${i.res}</td>
+                <td class="px-6 py-4 font-mono">
+    ${(i.bri == 0 || !i.bri) ? '' : `${i.bri} <span class="text-[10px] opacity-40">cd/m²</span>`}
+</td>
+                <td class="px-6 py-4 text-orange-600">${i.workT}</td>
+                <td class="px-6 py-4 text-slate-400">${i.storageT}</td>
+                <td class="px-6 py-4">
+                    <a href="#wuxing-inquiry-box" 
+   class="bg-slate-900 text-white px-3 py-1.5 rounded-lg text-[11px] font-bold hover:bg-blue-600 transition inline-block text-center cursor-pointer">
+   ${lang.inquiry}
+</a>
+                </td>
+            </tr>
+        `).join('') || `<tr><td colspan="9" class="py-20 text-center text-slate-400">No data found.</td></tr>`;
+
+        updateUI();
+    }
+
+    function updateUI() {
+        const total = Math.ceil(filtered.length / CONFIG.pageSize) || 1;
+        document.getElementById('matchCount').innerText = filtered.length;
+        document.getElementById('matchCountEn').innerText = filtered.length;
+        document.getElementById('currPage').innerText = document.getElementById('currPageEn').innerText = page;
+        document.getElementById('totalPage').innerText = document.getElementById('totalPageEn').innerText = total;
+        document.getElementById('prevPage').disabled = page === 1;
+        document.getElementById('nextPage').disabled = page === total;
+    }
+
+    function doFilter() {
+        const m = document.getElementById('modelSearchInput').value.toLowerCase();
+        const b = document.getElementById('brandFilter').value;
+        const s = document.getElementById('sizeFilter').value;
+
+        // 核心过滤逻辑：交叉匹配
+        filtered = db.filter(i => {
+            const matchM = !m || i.model.toLowerCase().includes(m);
+            const matchB = !b || i.brand === b;
+            const matchS = !s || i.size.toString() === s;
+            return matchM && matchB && matchS;
+        });
+
+        page = 1; 
+        renderTable();
+    }
+
+    function bindEvents() {
+        document.getElementById('modelSearchInput').oninput = () => {
+            clearTimeout(timer);
+            timer = setTimeout(doFilter, 300);
+        };
+        document.getElementById('brandFilter').onchange = doFilter;
+        document.getElementById('sizeFilter').onchange = doFilter;
+        document.getElementById('prevPage').onclick = () => { if(page > 1) { page--; renderTable(); } };
+        document.getElementById('nextPage').onclick = () => { if(page * CONFIG.pageSize < filtered.length) { page++; renderTable(); } };
+    }
+
+    return { init };
+})();
+document.addEventListener('DOMContentLoaded', panelModule.init);
+</script>
+
+    <section id="custom" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        <h2 class="text-3xl font-bold mb-10 text-center">
+            <span class="lang-cn">伍行定制化方案中心 / 产品规格清单</span>
+            <span class="lang-en">Customized Display Solutions Center / Product Matrix</span>
+        </h2>
+
+        <div class="mb-6 flex flex-wrap gap-4 items-center justify-between bg-slate-50 p-4 rounded-xl border border-slate-200">
+            <div class="relative flex-1 min-w-[300px]">
+                <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </span>
+                <input type="text" id="tableSearch" oninput="handleFilter()" 
+                    placeholder="Filter by size..." 
+                    class="block w-full pl-10 pr-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 text-sm">
+            </div>
+            <div class="text-xs text-slate-500 font-medium">
+                <span class="lang-cn">匹配结果: <span id="matchCount" class="text-blue-600 font-bold">0</span> 项</span>
+                <span class="lang-en">Matches: <span id="matchCountEn" class="text-blue-600 font-bold">0</span> items</span>
+            </div>
+        </div>
+
+        <div class="overflow-x-auto rounded-lg border border-gray-200 shadow-sm">
+            <table class="min-w-full w-full text-left border-collapse bg-white">
+                <thead class="bg-slate-100 text-[11px] font-bold uppercase text-slate-700 whitespace-nowrap">
+                    <tr id="tableHeader">
+                        <th class="px-4 py-4 border-b" data-cn="编号" data-en="NO.">NO.</th>
+                        <th class="px-4 py-4 border-b" data-cn="尺寸" data-en="Size">Size</th>
+                        <th class="px-4 py-4 border-b" data-cn="分辨率" data-en="Resolution">Resolution</th>
+                        <th class="px-4 py-4 border-b" data-cn="液晶态" data-en="LCD TYPE">LCD TYPE</th>
+                        <th class="px-4 py-4 border-b" data-cn="亮度" data-en="Luminance">Luminance</th>
+                        <th class="px-4 py-4 border-b" data-cn="信号类型" data-en="Interface">Interface</th>
+                        <th class="px-4 py-4 border-b" data-cn="工作温度" data-en="Work Temp">Work Temp</th>
+                        <th class="px-4 py-4 border-b" data-cn="储存温度" data-en="Storage Temp">Storage Temp</th>
+                        <th class="px-4 py-4 border-b text-center" data-cn="操作" data-en="Action">Action</th>
+                    </tr>
+                </thead>
+                <tbody id="customTableBody" class="text-[12px] divide-y divide-gray-100">
+                    <tr><td colspan="9" class="text-center py-20 text-slate-400">Loading Product Data...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mt-8 text-center">
+            <button id="toggleDataBtn" onclick="toggleDisplayLimit()" class="inline-flex items-center px-8 py-2 border-2 border-blue-600 text-blue-600 font-bold rounded-full hover:bg-blue-600 hover:text-white transition-all duration-300">
+                <span class="lang-cn">显示全部数据</span><span class="lang-en">Show All Data</span>
+                <i class="fa-solid fa-chevron-down ml-2 transition-transform duration-300" id="toggleIcon"></i>
+            </button>
+        </div>
+    </div>
+
+    <div id="contactModal" class="fixed inset-0 z-[9999] hidden items-center justify-center bg-black/60 backdrop-blur-sm" style="display: none;">
+        <div class="relative bg-white rounded-2xl p-8 max-w-sm w-full shadow-2xl mx-4">
+            <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 transition-colors">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+
+            <div class="text-center">
+                <div class="mb-4 text-blue-600 flex justify-center">
+                    <svg class="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
+                </div>
+                <h3 class="text-xl font-bold text-slate-800 mb-2">Whatever display solutions you need, we have them.</h3>
+                <p class="text-blue-600 text-sm font-medium mb-6 italic">Save our contact for instant support.</p>
+                
+                <div class="space-y-3">
+                    <a href="https://wa.me/86123456789" class="flex items-center justify-center gap-2 bg-[#25D366] text-white py-3 rounded-xl font-bold hover:opacity-90 transition">WhatsApp</a>
+                    <a href="#" class="flex items-center justify-center gap-2 bg-[#07C160] text-white py-3 rounded-xl font-bold hover:opacity-90 transition">WeChat</a>
+                    <a href="mailto:sales@awuxingelec.com" class="flex items-center justify-center gap-2 bg-blue-600 text-white py-3 rounded-xl font-bold hover:opacity-90 transition">Get Quote</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    let allData = []; 
+    let filteredData = []; 
+    let isExpanded = false;
+    const DEFAULT_LIMIT = 10;
+
+    // 1. 异步加载外部 JSON
+    async function initProductTable() {
+        try {
+            const response = await fetch('./custom.json');
+            if (!response.ok) throw new Error('Failed to load data.json');
+            allData = await response.json();
+            handleFilter(); 
+        } catch (error) {
+            console.error(error);
+            document.getElementById('customTableBody').innerHTML = `<tr><td colspan="9" class="text-center py-10 text-red-400">Error loading product data.</td></tr>`;
+        }
+    }
+
+    // 2. 渲染函数 (包含表头翻译)
+    function renderCustomTable() {
+        const tbody = document.getElementById('customTableBody');
+        const currentLang = document.body.getAttribute('data-lang') || 'en';
+        
+        // 更新表头文本
+        document.querySelectorAll('#tableHeader th').forEach(th => {
+            const cn = th.getAttribute('data-cn');
+            const en = th.getAttribute('data-en');
+            th.innerText = currentLang === 'cn' ? cn : en;
+        });
+
+        const displayData = isExpanded ? filteredData : filteredData.slice(0, DEFAULT_LIMIT);
+        
+        if (displayData.length === 0) {
+            tbody.innerHTML = `<tr><td colspan="9" class="text-center py-10 text-slate-400">No matching items.</td></tr>`;
+            return;
+        }
+
+        tbody.innerHTML = displayData.map(item => `
+            <tr class="hover:bg-blue-50/50 transition whitespace-nowrap">
+                <td class="px-4 py-4 text-gray-400 font-mono">${item.no}</td>
+                <td class="px-4 py-4 font-bold text-slate-800">${item.size}</td>
+                <td class="px-4 py-4 font-mono text-blue-600">${item.res}</td>
+                <td class="px-4 py-4">${item.type}</td>
+                <td class="px-4 py-4 font-bold text-emerald-600">${item.lum}</td>
+                <td class="px-4 py-4 text-slate-600">${item.iface}</td>
+                <td class="px-4 py-4 text-orange-600 font-medium">${item.top}</td>
+                <td class="px-4 py-4 text-orange-800 font-medium">${item.tst}</td>
+                <td class="px-4 py-4 text-center">
+                    <a href="#wuxing-inquiry-box" 
+   onclick="const sizeInput = document.getElementsByName('size')[0]; if(sizeInput) sizeInput.value = '${item.size}'; if(window.closeModal) closeModal();"
+   class="inline-block bg-blue-50 text-blue-600 px-4 py-1 rounded hover:bg-blue-600 hover:text-white transition font-bold text-[11px] text-center">
+    ${currentLang === 'cn' ? '询价' : 'Inquiry'}
+</a>
+                    </button>
+                </td>
+            </tr>
+        `).join('');
+    }
+
+    // 3. 搜索过滤
+    function handleFilter() {
+        const kw = document.getElementById('tableSearch').value.trim().toLowerCase();
+        filteredData = allData.filter(item => String(item.size).toLowerCase().startsWith(kw));
+        
+        document.getElementById('matchCount').innerText = filteredData.length;
+        document.getElementById('matchCountEn').innerText = filteredData.length;
+        renderCustomTable();
+    }
+
+    // 4. 展开/收起
+    function toggleDisplayLimit() {
+        isExpanded = !isExpanded;
+        const btn = document.getElementById('toggleDataBtn');
+        const icon = document.getElementById('toggleIcon');
+        
+        btn.querySelector('.lang-cn').innerText = isExpanded ? '收起数据' : '显示全部数据';
+        btn.querySelector('.lang-en').innerText = isExpanded ? 'Collapse Data' : 'Show All Data';
+        icon.style.transform = isExpanded ? 'rotate(180deg)' : 'rotate(0deg)';
+        
+        renderCustomTable();
+    }
+
+    // 5. 弹窗控制 (核心修复点)
+    function openContactModal(size) {
+        const modal = document.getElementById('contactModal');
+        if (modal) {
+            modal.style.display = 'flex'; // 强制显示
+            modal.classList.remove('hidden');
+        }
+    }
+
+    function closeModal() {
+        const modal = document.getElementById('contactModal');
+        if (modal) {
+            modal.style.display = 'none'; // 强制隐藏
+            modal.classList.add('hidden');
+        }
+    }
+
+    // 6. 初始化与语言监听
+    document.addEventListener('DOMContentLoaded', () => {
+        // 初始设置
+        if (!document.body.getAttribute('data-lang')) {
+            document.body.setAttribute('data-lang', 'en');
+        }
+        initProductTable();
+
+        // 监听语言切换
+        const observer = new MutationObserver(() => renderCustomTable());
+        observer.observe(document.body, { attributes: true, attributeFilter: ['data-lang'] });
+        
+        // 点击背景关闭弹窗
+        document.getElementById('contactModal').addEventListener('click', function(e) {
+            if (e.target === this) closeModal();
+        });
+    });
+</script>
+
+<style>
+    /* 多语言显隐控制 */
+    [data-lang="cn"] .lang-en { display: none !important; }
+    [data-lang="cn"] .lang-cn { display: inline !important; }
+    [data-lang="en"] .lang-cn { display: none !important; }
+    [data-lang="en"] .lang-en { display: inline !important; }
+    
+    /* 优化表格样式 */
+    .overflow-x-auto::-webkit-scrollbar { height: 6px; }
+    .overflow-x-auto::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+</style>
+<section id="wuxing-inquiry-box" style="background-color: #f8fafc; padding: 60px 20px; font-family: Arial, sans-serif;">
+    <div style="max-width: 900px; margin: 0 auto; background: #ffffff; border-radius: 12px; padding: 40px; box-shadow: 0 10px 25px rgba(0,0,0,0.05);">
+        
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h2 id="wx-title" style="color: #1e293b; margin-bottom: 8px; font-size: 28px;">Custom Display Solution</h2>
+            <p id="wx-subtitle" style="color: #64748b; font-size: 15px; margin: 0;">Provide your specifications, Jacy will feedback within 24 hours.</p>
+        </div>
+
+        <form id="wx-form-final" autocomplete="off">
+            <input type="hidden" name="lang" id="wx-lang-tracker" value="en">
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-name" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Name / Company</label>
+                    <input type="text" name="name_company" placeholder="e.g. John / Apple Inc." required style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px; outline: none;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-email" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Business Email</label>
+                    <input type="email" name="email" placeholder="sales@yourcompany.com" required style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-contact" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">WhatsApp / Phone</label>
+                    <input type="text" name="contact" placeholder="+86..." style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-tp" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Touch Panel</label>
+                    <select name="tp_option" style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px; background: #fff;">
+                        <option id="o-no" value="Without TP">Without TP</option>
+                        <option id="o-yes" value="With TP">With TP</option>
+                    </select>
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-size" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Size Range</label>
+                    <input type="text" name="size" placeholder="e.g. 7, 10.1 inch" style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="display: flex; flex-direction: column;">
+                    <label id="l-res" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Resolution</label>
+                    <input type="text" name="res" placeholder="e.g. 1024x768" style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px;">
+                </div>
+                <div style="grid-column: 1 / -1; display: flex; flex-direction: column;">
+                    <label id="l-msg" style="font-size: 13px; color: #475569; margin-bottom: 8px; font-weight: 600;">Message</label>
+                    <textarea name="message" rows="4" placeholder="Specific requirements..." style="padding: 10px 12px; border: 1px solid #cbd5e1; border-radius: 6px; resize: vertical;"></textarea>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 30px;">
+                <button type="submit" id="wx-btn" style="background: #2563eb; color: white; padding: 14px 60px; border-radius: 6px; border: none; font-size: 16px; font-weight: bold; cursor: pointer; transition: background 0.3s;">SEND INQUIRY</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+    (function() {
+        const data = {
+            en: {
+                t: "Custom Display Solution", st: "Provide your specifications, Jacy will feedback within 24 hours.",
+                n: "Name / Company", e: "Business Email", c: "WhatsApp / Phone", tp: "Touch Panel",
+                no: "Without TP", yes: "With TP", sz: "Size Range", rs: "Resolution", msg: "Message",
+                btn: "SEND INQUIRY", sd: "Sending...", ok: "Success! Jacy will contact you soon."
+            },
+            cn: {
+                t: "定制显示方案", st: "提交规格要求，Jacy 将在24小时内反馈。",
+                n: "姓名 / 公司名称", e: "企业邮箱", c: "联系电话 / WhatsApp", tp: "触摸屏需求",
+                no: "不带触摸", yes: "带触摸 (TP)", sz: "尺寸范围", rs: "分辨率要求", msg: "详细留言",
+                btn: "提交询价", sd: "提交中...", ok: "提交成功！Jacy会尽快回复您。"
+            }
+        };
+
+        function updateUI(lang) {
+            const d = data[lang];
+            const el = (id) => document.getElementById(id);
+            if(!el('wx-btn')) return;
+
+            el('wx-lang-tracker').value = lang;
+            el('wx-title').innerText = d.t;
+            el('wx-subtitle').innerText = d.st;
+            el('l-name').innerText = d.n;
+            el('l-email').innerText = d.e;
+            el('l-contact').innerText = d.c;
+            el('l-tp').innerText = d.tp;
+            el('o-no').innerText = d.no;
+            el('o-yes').innerText = d.yes;
+            el('l-size').innerText = d.sz;
+            el('l-res').innerText = d.rs;
+            el('l-msg').innerText = d.msg;
+            el('wx-btn').innerText = d.btn;
+        }
+
+        function autoDetect() {
+            // 1. 优先检查 URL 路径（WordPress 切换语言通常会改变 URL）
+            const url = window.location.href.toLowerCase();
+            // 2. 检查 HTML 标签的 lang 属性
+            const htmlLang = document.documentElement.lang.toLowerCase();
+            // 3. 检查页面关键英文文本
+            const bodyText = document.body.innerText;
+
+            let target = 'cn'; // 默认中文
+
+            if (url.includes('/en/') || url.includes('?lang=en') || htmlLang.includes('en') || bodyText.includes('About Us') || bodyText.includes('Product')) {
+                target = 'en';
+            }
+
+            if (document.getElementById('wx-lang-tracker').value !== target) {
+                updateUI(target);
+            }
+        }
+
+        // 监听点击（防止用户手动切换语言后表单不更新）
+        document.addEventListener('click', () => setTimeout(autoDetect, 300));
+
+        // 页面加载完成后立即执行
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => {
+                updateUI('en'); // 先默认英文防止闪烁
+                autoDetect();
+            });
+        } else {
+            autoDetect();
+        }
+
+        // 提交逻辑保持不变
+        document.getElementById('wx-form-final').onsubmit = async (e) => {
+            e.preventDefault();
+            const btn = document.getElementById('wx-btn');
+            const lang = document.getElementById('wx-lang-tracker').value;
+            const originalBtnText = data[lang].btn;
+
+            btn.innerText = data[lang].sd;
+            btn.disabled = true;
+
+            try {
+                const response = await fetch('https://api.awuxingelec.qzz.io', {
+                    method: 'POST',
+                    body: JSON.stringify(Object.fromEntries(new FormData(e.target))),
+                    headers: { 'Content-Type': 'application/json' }
+                });
+                
+                if (response.ok) {
+                    alert(data[lang].ok);
+                    e.target.reset();
+                } else { 
+                    alert(lang === 'en' ? "Submission failed." : "提交失败，请重试。"); 
+                }
+            } catch (err) { 
+                alert(lang === 'en' ? "Network error!" : "网络错误！"); 
+            } finally {
+                btn.innerText = originalBtnText;
+                btn.disabled = false;
+            }
+        };
+    })();
+</script>
+</section>
+<section id="contact-cta" style="background-color: #fcfcfc; border-top: 1px solid #e0e0e0; padding: 50px 20px; font-family: 'Segoe UI', Arial, sans-serif;">
+    <div class="max-w-7xl mx-auto flex flex-wrap justify-between gap-10">
+        
+        <div style="flex: 1.2; min-width: 300px;">
+            <div class="lang-en">
+                <h3 style="color: #0056b3; margin: 0 0 10px 0; font-size: 22px;">WUXING ELECTRONIC</h3>
+                <p style="font-weight: bold; margin: 0; color: #444;">Industrial & Medical Display Solutions</p>
+                <p style="font-size: 14px; color: #777; margin-top: 15px; line-height: 1.6;">
+                    Specializing in Mini/MicroLED and custom HMI modules for global clients.
+                </p>
+            </div>
+            <div class="lang-cn">
+                <h3 style="color: #0056b3; margin: 0 0 10px 0; font-size: 22px;">伍行电子 (WUXING)</h3>
+                <p style="font-weight: bold; margin: 0; color: #444;">工业与医疗显示方案服务商</p>
+                <p style="font-size: 14px; color: #777; margin-top: 15px; line-height: 1.6;">
+                    专注为全球客户提供 Mini/MicroLED 及定制化人机界面模块。
+                </p>
+            </div>
+        </div>
+
+        <div style="flex: 1; min-width: 280px;">
+            <h4 class="lang-en" style="margin: 0 0 20px 0; font-size: 16px; border-left: 3px solid #0056b3; padding-left: 10px; color: #333;">CONNECT WITH US</h4>
+            <h4 class="lang-cn" style="margin: 0 0 20px 0; font-size: 16px; border-left: 3px solid #0056b3; padding-left: 10px; color: #333;">快速联系</h4>
+            
+            <div style="display: flex; flex-direction: column; gap: 10px;">
+                <a href="https://wa.me/message/M6UHWFSHN2JNG1" target="_blank" style="background-color: #25D366; color: white; padding: 10px; border-radius: 5px; text-decoration: none; text-align: center; font-weight: 600; font-size: 14px;">WhatsApp: +86 180 2751 1906</a>
+                <a href="https://t.me/Wuxing_Sales" target="_blank" style="background-color: #0088cc; color: white; padding: 10px; border-radius: 5px; text-decoration: none; text-align: center; font-weight: 600; font-size: 14px;">Telegram: @Wuxing_Sales</a>
+                <a href="https://www.facebook.com/share/1E2RTXQw1Y/?mibextid=wwXIfr" target="_blank" style="background-color: #1877F2; color: white; padding: 10px; border-radius: 5px; text-decoration: none; text-align: center; font-weight: 600; font-size: 14px;">Facebook: Wuxing Electronic</a>
+                
+                <div style="background-color: #07C160; color: white; padding: 10px; border-radius: 5px; text-align: center; font-weight: 600; font-size: 14px; cursor: pointer; position: relative;" 
+                     onmouseover="document.getElementById('qr-popup').style.display='block'" 
+                     onmouseout="document.getElementById('qr-popup').style.display='none'">
+                    <span class="lang-en">WeChat</span><span class="lang-cn">微信联系</span>
+                    <div id="qr-popup" style="display: none; position: absolute; bottom: 50px; left: 50%; transform: translateX(-50%); width: 160px; background: white; border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); z-index: 100;">
+                        <img src="https://img.lcdlight.qzz.io/file/1773992782752_187c905365e234a62d98f03a75fb96d8.jpg" alt="QR" style="width: 100%; height: auto;">
+                        <p style="color: #333; font-size: 12px; margin: 5px 0 0 0;">Scan to add / 扫码添加</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="flex: 1; min-width: 250px; background-color: #f0f4f8; padding: 20px; border-radius: 10px; border: 1px solid #d1d9e6;">
+            <div class="lang-en">
+                <h4 style="margin: 0 0 10px 0; color: #0056b3; font-size: 16px;">DIRECT INQUIRY</h4>
+                <p style="margin: 5px 0; font-size: 13px;"><strong>Email:</strong> jacy@awuxing.com.cn</p>
+                <p style="margin: 15px 0; color: #d9534f; font-weight: bold; font-size: 13px;">⚡ Response: Within 8 Hour</p>
+                <a href="mailto:jacy@awuxing.com.cn" style="display: block; text-align: center; background-color: #0056b3; color: white; padding: 12px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 15px;">GET A QUOTE</a>
+            </div>
+            <div class="lang-cn">
+                <h4 style="margin: 0 0 10px 0; color: #0056b3; font-size: 16px;">立即询价</h4>
+                <p style="margin: 5px 0; font-size: 13px;"><strong>邮箱:</strong> jacy@awuxing.com.cn</p>
+                <p style="margin: 15px 0; color: #d9534f; font-weight: bold; font-size: 13px;">⚡ 响应时间：8小时内回复</p>
+                <a href="mailto:jacy@awuxing.com.cn" style="display: block; text-align: center; background-color: #0056b3; color: white; padding: 12px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 15px;">获取报价单</a>
+            </div>
+        </div>
+    </div>
+
+    <div style="max-width: 1200px; margin: 40px auto 0 auto; border-top: 1px solid #eee; padding-top: 20px; text-align: center; font-size: 12px; color: #999;">
+        <span class="lang-en">© 2026 Wuxing Electronic. All Rights Reserved.</span>
+        <span class="lang-cn">© 2026 伍行电子 版权所有。</span>
+    </div>
+</section>
