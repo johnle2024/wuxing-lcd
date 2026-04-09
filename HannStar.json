@@ -1,0 +1,4002 @@
+[
+  {
+    "brand": "HannStar",
+    "model": "HSD128JUW1-A10",
+    "size": "12.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "700",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD088IPW1-A00",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "480×1920",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD121KXN1-A10",
+    "size": "12.1",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103KPW2-A10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123KPW1-A30",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD156JUW2-A12",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A10",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD084ISN1-A01",
+    "size": "8.4",
+    "type": "TN",
+    "res": "800×600",
+    "bri": "380",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101IHW1-A10",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123KPW2-D10",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080IDW1-C01",
+    "size": "8",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070IDW1-E13",
+    "size": "7",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PWW1-H00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080IFW1-A10",
+    "size": "8",
+    "type": "TN",
+    "res": "1024×600",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104JXN1-A21",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW2-F10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090JHW1-D10",
+    "size": "9",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "800",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD084ISN1-A00",
+    "size": "8.4",
+    "type": "TN",
+    "res": "800×600",
+    "bri": "230",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD062IDW1-A02",
+    "size": "6.2",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JDW6-A00",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD156JUW2-B10",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JFW1-C11",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "500",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080IFW1-A00",
+    "size": "8",
+    "type": "TN",
+    "res": "1024×600",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070IFW1-A00",
+    "size": "7",
+    "type": "TN",
+    "res": "1024×600",
+    "bri": "600",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW2-C01",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-D10",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "900",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A15",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD190MEN6-A00",
+    "size": "19",
+    "type": "TN",
+    "res": "1280×1024",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070PWW1-B01",
+    "size": "7",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PWW1-G10",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123KPW2-A10",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JWW1-A20-T00",
+    "size": "7",
+    "type": "IPS",
+    "res": "1280×768",
+    "bri": "1250",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JHW1-H10",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090JFW1-A02",
+    "size": "9",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JDW6-G10",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1250",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090IDW1-A00",
+    "size": "9",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "250",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101BFW6-A00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070PFW5-A00",
+    "size": "7",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "550",
+    "workT": "-10~60°C",
+    "storageT": "-20~65°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103IPW1-C10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "600",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104JPW1-B10",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "960×1280",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104JXN1-B10",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JWW1-A20",
+    "size": "7",
+    "type": "IPS",
+    "res": "1280×768",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080KHW3-A10",
+    "size": "8",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "800",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090JFW1-A11",
+    "size": "9",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "500",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101IHW1-C00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "750",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104IXN1-A01-0299",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD128JUW1-A12",
+    "size": "12.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "700",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD121JXN1-A11",
+    "size": "12.1",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JFW4-C10-P",
+    "size": "7",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PWW1-G00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD097PXN1-A00-0299",
+    "size": "9.7",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PUW1-A00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "380",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PFW5-C00",
+    "size": "10.1",
+    "type": "TN",
+    "res": "1024×600",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080IFW1-A20",
+    "size": "8",
+    "type": "TN",
+    "res": "1024×600",
+    "bri": "670",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PUW1-C00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "370",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD150GXN1-A00",
+    "size": "15",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "250",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104BXN1-A00",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD030HPW1-A00",
+    "size": "3",
+    "type": "IPS",
+    "res": "360×640",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W9-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104JPW1-A10",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "960×1280",
+    "bri": "900",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103IPW1-A10-0299",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD0802WW2-A00",
+    "size": "8",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW2-H10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A13",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW2-F12",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080KDW1-H10",
+    "size": "8",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "540",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD156JUW1-A14",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW2-E21",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1385",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101BWW7-A10",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "0",
+    "workT": "-30~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD011BPF1-C00",
+    "size": "1.1",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD129BUW6-A00-N00",
+    "size": "13",
+    "type": "IPS",
+    "res": "1200×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103BPW6-A00-N00",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "720×1920",
+    "bri": "0",
+    "workT": "-25~75°C",
+    "storageT": "-35~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD156JUW2-A12-0299",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD128JUW1-A10-0299",
+    "size": "12.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050GDW3-C00-P",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090JFW1-A03",
+    "size": "9",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080IDW1-A00",
+    "size": "8",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "200",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020B2NA-A00",
+    "size": "2",
+    "type": "TN",
+    "res": "176×220",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD035B7N1-D02",
+    "size": "3.5",
+    "type": "TN",
+    "res": "320×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W2-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040B8W2-A01",
+    "size": "4",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W3-A00",
+    "size": "4.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W3-C00",
+    "size": "4.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040B8W8-D00",
+    "size": "4",
+    "type": "IPS",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050CHW1-A00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090IDW1-C00",
+    "size": "9",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "480",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060CHW1-A00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W5-D00",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BMW1-D00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040B7N1-D02",
+    "size": "4",
+    "type": "TN",
+    "res": "320×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W7-A00",
+    "size": "4.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BMW1-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040B8W9-A00",
+    "size": "4",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW3-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD062IDW1-A02-0299",
+    "size": "6.2",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101BWW4-A00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W8-C00",
+    "size": "5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045BMW3-D00",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BMW1-C00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BHW1-D00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W2-C00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W4-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W7-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPN1-F00",
+    "size": "1.3",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040B8W9-A01",
+    "size": "4",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020B3N1-A00",
+    "size": "2",
+    "type": "IPS",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD018B1N9-A02",
+    "size": "1.77",
+    "type": "TN",
+    "res": "128×160",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015BPN1-F00",
+    "size": "1.54",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD032B3N5-A02",
+    "size": "3.2",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW4-D00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW5-C00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD053H8W2-A00",
+    "size": "5.3",
+    "type": "TN",
+    "res": "480×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PUW1-C20",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD018B1NA-A00",
+    "size": "1.77",
+    "type": "TN",
+    "res": "128×160",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD024H3N8-A00",
+    "size": "2.4",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD028H3N4-A00",
+    "size": "2.4",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JDW6-B00-0299",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD035B3N2-A00",
+    "size": "3.5",
+    "type": "IPS",
+    "res": "320×240",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BDW3-A00",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060BHW1-D00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040BPN1-A00",
+    "size": "4",
+    "type": "IPS",
+    "res": "480×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW8-C00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020B1N1-A00",
+    "size": "2",
+    "type": "TN",
+    "res": "128×160",
+    "bri": "0",
+    "workT": "-20~65°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD014BPN1-C00",
+    "size": "1.4",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD053H8W3-C00",
+    "size": "5.3",
+    "type": "IPS",
+    "res": "480×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD057BHF1-P00",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1520",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD021HPW1-A00",
+    "size": "2.1",
+    "type": "TN",
+    "res": "122×250",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090IHW1-A11",
+    "size": "9",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD097BXN1-A10",
+    "size": "9.7",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW8-C00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A11",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104HUW1-C00-N00",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "1200×2000",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD049BHW1-C00",
+    "size": "4.9",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101GWW5-A00-0220",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101BUW5-A00-N00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1200×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPF2-C00",
+    "size": "1.28",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD092JPW1-B10",
+    "size": "9.2",
+    "type": "IPS",
+    "res": "1920×384",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW1-E10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW1-E11",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060BHW3-D00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD092JPW1-A10-0299",
+    "size": "9.2",
+    "type": "IPS",
+    "res": "1920×384",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW2-F10-0299",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW2-F11",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD121JXN1-A01-0299",
+    "size": "12.1",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-30~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015BPN2-A00",
+    "size": "1.54",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080JHW3-C00-T00",
+    "size": "8",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "800",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD052B8W1-A00",
+    "size": "5.2",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD105HUW1-C00-N00",
+    "size": "10.5",
+    "type": "IPS",
+    "res": "1200×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW2-F10",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "900",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD158JPW1-A20",
+    "size": "15.8",
+    "type": "IPS",
+    "res": "2152×1080",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD097BXN1-A20",
+    "size": "9.7",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD011HPW1-C00",
+    "size": "1.1",
+    "type": "IPS",
+    "res": "135×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JHW2-A20",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "1150",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW3-A10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "900",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD088UPW2-C00",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A10-0299",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050JDW2-C10-0220",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD028G3N3-90000C-PX",
+    "size": "2.8",
+    "type": "",
+    "res": "240×320",
+    "bri": "650",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080GHW3-A15",
+    "size": "8",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "800",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101GWW5-A01-P",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD146JUW1-A10-0299",
+    "size": "14.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD088JPW2-B10-0299",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103GPW3-90000A-MX",
+    "size": "10.3",
+    "type": "TN",
+    "res": "1440×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD110HUW1-C00-N00",
+    "size": "11",
+    "type": "IPS",
+    "res": "1200×2000",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A15-0299",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103IPW1-A11-0299",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060JPW1-A10-0299",
+    "size": "6",
+    "type": "IPS",
+    "res": "640×1280",
+    "bri": "0",
+    "workT": "-40~80°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060JPW2-A10-0299",
+    "size": "6",
+    "type": "",
+    "res": "640×1280",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070IDW1-G00",
+    "size": "7",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "600",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PXN1-B00",
+    "size": "10",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020F2NA-A00",
+    "size": "2",
+    "type": "TN",
+    "res": "176×220",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD028FAW1-A00",
+    "size": "2.8",
+    "type": "TN",
+    "res": "240×400",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W1-C10",
+    "size": "5",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FMW2-D00",
+    "size": "5",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W1-C00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W1-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047FMW1-C00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047FMW1-D00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FHW1-D00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD014F4N1-A00",
+    "size": "1.44",
+    "type": "TN",
+    "res": "128×128",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W3-B00",
+    "size": "4.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W5-D00",
+    "size": "5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060FMW1-C00",
+    "size": "6",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FMW1-C00",
+    "size": "5",
+    "type": "TN",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FMW1-C10",
+    "size": "5",
+    "type": "TN",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W2-C00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W2-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD053F8W1-A10",
+    "size": "5.3",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD053F8W1-C10",
+    "size": "5.3",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W1-A10",
+    "size": "5",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PWW1-H00-0220",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F8W6-D00",
+    "size": "5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080BXN1-A00",
+    "size": "8",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060FHW3-D00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060FHW1-D00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070IDW5-A10",
+    "size": "7",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045FMW3-D00",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045F8W3-A00-T00",
+    "size": "4.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055FHW1-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FHW2-D00-T00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PWW3-B00",
+    "size": "10.1",
+    "type": "TN",
+    "res": "1280×800",
+    "bri": "350",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FHW3-D00-T00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055FMW1-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD035F8W2-A00",
+    "size": "3.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040F8W3-A00",
+    "size": "4",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PUW1-A00-0299",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD024F3N7-A00",
+    "size": "2.4",
+    "type": "IPS",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FHW3-D00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045F8W1-C01",
+    "size": "4.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD018F1N9-A01",
+    "size": "1.77",
+    "type": "TN",
+    "res": "128×160",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055FHW2-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040F8W6-D00",
+    "size": "4",
+    "type": "IPS",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD024F3N5-A10",
+    "size": "2.4",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD038F7N1-A02",
+    "size": "3.8",
+    "type": "TN",
+    "res": "320×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD038F7N1-B02",
+    "size": "3.8",
+    "type": "TN",
+    "res": "320×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040F8W8-D00",
+    "size": "4",
+    "type": "IPS",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD064FHW1-D00",
+    "size": "6.4",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047FHW1-D00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055FHW3-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015FPN1-F00",
+    "size": "1.54",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD024F3N5-D10",
+    "size": "2.4",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD028F3N3-A00",
+    "size": "2.8",
+    "type": "IPS",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040FAW1-A02",
+    "size": "4",
+    "type": "TN",
+    "res": "240×400",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040F8W4-A00",
+    "size": "4",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD043F8W3-D00",
+    "size": "4.3",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045F8W5-D00",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W7-C00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD043F9W1-A00",
+    "size": "4.3",
+    "type": "TN",
+    "res": "480×272",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FDW1-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050F9W1-A00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×272",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW3-D00-T00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW3-D00-T00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW4-C00-T20",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060BHW1-P00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055FHW3-C00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD088IPW1-A00-0299",
+    "size": "8.8",
+    "type": "IPS",
+    "res": "480×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W8-P00",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040B8W9-A01-T00",
+    "size": "4",
+    "type": "TN",
+    "res": "480×800",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD052BHW1-C00-T00",
+    "size": "5.2",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPF1-D00",
+    "size": "1.28",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BPW1-F00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "750×1334",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD035F8N3-A00",
+    "size": "3.5",
+    "type": "TN",
+    "res": "320×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW2-A00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013FPF1-D00",
+    "size": "1.28",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~60°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BMW1-P00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BHW1-P00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPN1-A00",
+    "size": "1.3",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FHW4-A00-T10",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW3-P00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD057BHW1-P00",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BPW1-P00",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "750×1334",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW7-P00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD057BHW1-D00-T00",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD053B8W2-A00",
+    "size": "5.3",
+    "type": "TN",
+    "res": "480×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060BHW4-P00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060BHW4-D00-T00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPN1-P00",
+    "size": "1.3",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013FPN1-F00",
+    "size": "1.3",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD024F3N5-D20",
+    "size": "2.4",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD032B3N5-B02",
+    "size": "3.2",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD032B3N5-D02",
+    "size": "3.2",
+    "type": "TN",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD060FHW2-D00",
+    "size": "6",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W4-A00-T00",
+    "size": "5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W6-P00",
+    "size": "5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW4-C00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW4-P00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW4-Q00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD052BHW1-C00",
+    "size": "5.2",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD052BHW1-P00",
+    "size": "5.2",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD052BHW1-Q00",
+    "size": "5.2",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW3-Q00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW5-C00-T00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW5-D00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW6-D00-T00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW6-P00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD028FAW1-B00",
+    "size": "2.8",
+    "type": "TN",
+    "res": "240×400",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101PUW1-C30",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055B8W1-Q00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "480×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD150GXN1-A00-C00",
+    "size": "15",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "250",
+    "workT": "-30~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080PWW2-B01",
+    "size": "8",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-30~65°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW7-P00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050FMW2-C00-T00",
+    "size": "5",
+    "type": "IPS",
+    "res": "540×960",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD063BHF1-P00",
+    "size": "6.3",
+    "type": "IPS",
+    "res": "720×1520",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015BPN1-A00",
+    "size": "1.54",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD035F8W2-A00-T00",
+    "size": "3.5",
+    "type": "TN",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD047BPW3-C-T",
+    "size": "4.7",
+    "type": "IPS",
+    "res": "750×1334",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD010HPW1-P00",
+    "size": "0.96",
+    "type": "IPS",
+    "res": "80×160",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD010HPW1-P01",
+    "size": "0.96",
+    "type": "IPS",
+    "res": "80×160",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD011HPN1-A00",
+    "size": "1.1",
+    "type": "IPS",
+    "res": "135×240",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020F3N1-A00",
+    "size": "2",
+    "type": "IPS",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050B8W8-P00",
+    "size": "5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD061BHF1-P00",
+    "size": "6.1",
+    "type": "IPS",
+    "res": "720×1560",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD065FHF1-E00-N00",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1520",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD058FHF1-C00",
+    "size": "5.9",
+    "type": "IPS",
+    "res": "720×1512",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD061BHF2-P00",
+    "size": "6.1",
+    "type": "IPS",
+    "res": "720×1560",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD040BPW2-C00",
+    "size": "4",
+    "type": "IPS",
+    "res": "640×1136",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD058BHW1-P00",
+    "size": "5.9",
+    "type": "IPS",
+    "res": "720×1512",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050BHW8-C00-T00",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW5-Q00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080BWW5-A00",
+    "size": "8",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD058HHW2-E00",
+    "size": "5.8",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101BWW5-A00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPN3-C00-T00",
+    "size": "1.3",
+    "type": "IPS",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD057BHW2-P00",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070VDW6-A00",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~80°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101HWW7-A00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "0",
+    "workT": "-30~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD057BHF2-P00",
+    "size": "5.7",
+    "type": "IPS",
+    "res": "720×1520",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-40~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD010HPW2-A00",
+    "size": "0.96",
+    "type": "IPS",
+    "res": "80×160",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD045B8W8-C01",
+    "size": "4.5",
+    "type": "IPS",
+    "res": "480×854",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050JDW2-E00",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1300",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050JDW2-F00",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1300",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050JDW2-C10-0299",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD062KDW1-E10",
+    "size": "6.2",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "1100",
+    "workT": "-20~80°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080JDW1-J10",
+    "size": "8",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "700",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080JDW2-A20",
+    "size": "8",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "930",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD090JFW1-B01",
+    "size": "9",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "450",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD092JPW1-B10-0299",
+    "size": "9.2",
+    "type": "IPS",
+    "res": "1920×384",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD097GXN1-E00-0299",
+    "size": "9.7",
+    "type": "TN",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JHW1-E00-0220",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JHW2-A10",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JHW2-A10-0299",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103IPW1-A10-0220",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW1-A01-0220",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103JPW1-D10",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1280×480",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD121GWW1-A00-0299",
+    "size": "12.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW4-C10",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD104HPW2-A00",
+    "size": "10.4",
+    "type": "IPS",
+    "res": "800×1332",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD066BHF1-A00-N00",
+    "size": "6.6",
+    "type": "IPS",
+    "res": "720×1600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD100BBN1-A00",
+    "size": "10",
+    "type": "IPS",
+    "res": "1200×1600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD100GBN1-029901-PX",
+    "size": "10",
+    "type": "IPS",
+    "res": "1200×1600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD017BPW1-C00",
+    "size": "1.7",
+    "type": "IPS",
+    "res": "240×280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070BPW1-A00",
+    "size": "6.9",
+    "type": "IPS",
+    "res": "280×1424",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JDW7-B10",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JDW6-A00-0220",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD013BPF3-C00",
+    "size": "1.32",
+    "type": "IPS",
+    "res": "360×360",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD035UPF1-A00",
+    "size": "3.5",
+    "type": "IPS",
+    "res": "800×640",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070UDW7-C00",
+    "size": "7",
+    "type": "",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-35~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD030BPW2-C00-T00",
+    "size": "3",
+    "type": "IPS",
+    "res": "268×800",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD121JWW1-B10-0299",
+    "size": "12.1",
+    "type": "IPS",
+    "res": "1280×800",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080BWW3-A00",
+    "size": "8",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD022BPW1-C00-N00",
+    "size": "2.2",
+    "type": "IPS",
+    "res": "180×454",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD010BPF3-C00",
+    "size": "0.99",
+    "type": "IPS",
+    "res": "40×160",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015RPN3-C00",
+    "size": "1.54",
+    "type": "TN",
+    "res": "200×200",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD156NUW5-C00",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050NDW5-C00",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD215NUW1-C00",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050HDW4-A30",
+    "size": "5",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD065BHF2-A00-N00",
+    "size": "6.5",
+    "type": "IPS",
+    "res": "720×1600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW5-P00",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD055BHW6-C11",
+    "size": "5.5",
+    "type": "IPS",
+    "res": "720×1440",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD097HXN2-A00",
+    "size": "9.7",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "0",
+    "workT": "-20~80°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD215GUW1-A00-0299",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD100NPN1-C00",
+    "size": "10",
+    "type": "IPS",
+    "res": "1536×2048",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~83°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015NPF2-C00",
+    "size": "1.45",
+    "type": "IPS",
+    "res": "360×360",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD017NPW3-C00",
+    "size": "1.7",
+    "type": "TN",
+    "res": "300×344",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD042HPW1-A20",
+    "size": "4.2",
+    "type": "IPS",
+    "res": "300×400",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050HDW4-A20",
+    "size": "5",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101BUW2-C00",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "-20~85°C",
+    "storageT": "-30~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD103RPW3-C00",
+    "size": "10.3",
+    "type": "TN",
+    "res": "1440×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-25~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD042HPW1-A30",
+    "size": "4.2",
+    "type": "IPS",
+    "res": "300×400",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020HPN2-C00-N00",
+    "size": "2",
+    "type": "IPS",
+    "res": "400×454",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015BPF1-C00-N00",
+    "size": "1.45",
+    "type": "IPS",
+    "res": "412×412",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JWW1-B10-0220",
+    "size": "7",
+    "type": "IPS",
+    "res": "1280×768",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015GPF2-900002-PX",
+    "size": "1.45",
+    "type": "TN",
+    "res": "360×360",
+    "bri": "14",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD015GPN3-90000A-MX",
+    "size": "1.54",
+    "type": "TN",
+    "res": "200×200",
+    "bri": "300",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD021GPW1-C00-0299-P",
+    "size": "2.1",
+    "type": "TN",
+    "res": "122×250",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD029GPW1-90000A-MX",
+    "size": "2.9",
+    "type": "TN",
+    "res": "168×384",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD029GPW3-02990A-MX",
+    "size": "2.9",
+    "type": "TN",
+    "res": "210×480",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD042GPW1-90000D-MX",
+    "size": "4.2",
+    "type": "TN",
+    "res": "300×400",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050GHW4-A00-P",
+    "size": "5",
+    "type": "IPS",
+    "res": "720×1280",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070GWW5-900001-P",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070GWW5-900001-PX",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080JHW3-A13",
+    "size": "8",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "800",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD100GBN1-A00",
+    "size": "10",
+    "type": "TN",
+    "res": "1200×1600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD066BHF3-E00-N00",
+    "size": "6.6",
+    "type": "IPS",
+    "res": "720×1600",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD017GPW3-90000A-PX",
+    "size": "1.7",
+    "type": "TN",
+    "res": "300×344",
+    "bri": "20",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD021GPW1-90000A-MX",
+    "size": "2.1",
+    "type": "TN",
+    "res": "122×250",
+    "bri": "190",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070GFW4-B00-P",
+    "size": "7",
+    "type": "IPS",
+    "res": "1024×600",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101GWW7-90000D-PX",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "800×1280",
+    "bri": "700",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD101JHW1-F10",
+    "size": "10.1",
+    "type": "IPS",
+    "res": "1280×720",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123JPW3-A14",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "720×1920",
+    "bri": "850",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD078GXN1-A00",
+    "size": "7.8",
+    "type": "TN",
+    "res": "768×1024",
+    "bri": "100",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD050JDW6-A20",
+    "size": "5",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "1300",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JWW3-A10",
+    "size": "7",
+    "type": "IPS",
+    "res": "1280×768",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD080KDW1-H10-0299",
+    "size": "8",
+    "type": "TN",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070BDW4-A00",
+    "size": "7",
+    "type": "IPS",
+    "res": "800×480",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD020BPN3-A00",
+    "size": "2",
+    "type": "IPS",
+    "res": "240×296",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD129BUW6-A10-N00",
+    "size": "13",
+    "type": "IPS",
+    "res": "1200×1920",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD150XPW3-C00",
+    "size": "15",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "0",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD123BPW5-A00",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "720×1920",
+    "bri": "0",
+    "workT": "-25~75°C",
+    "storageT": "-25~85°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JWW2-A20-N00",
+    "size": "7",
+    "type": "IPS",
+    "res": "1280×768",
+    "bri": "900",
+    "workT": "-40~90°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "HannStar",
+    "model": "HSD070JWW6-C20",
+    "size": "7",
+    "type": "IPS",
+    "res": "1024×768",
+    "bri": "1300",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  }
+]

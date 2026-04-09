@@ -1,0 +1,2272 @@
+[
+  {
+    "brand": "LM215WF3-SLS2",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM240WU8-SLE1",
+    "model": "LG Display",
+    "size": "24",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WF7-SLA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SSK1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WF7-SSD1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SSM1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WR2-SPE1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "540",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WF9-SSA1",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB213QX2-SL01",
+    "model": "LG Display",
+    "size": "21.3",
+    "type": "IPS",
+    "res": "1536×2048",
+    "bri": "1100",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR3-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WFA-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM190E0A-SLE1",
+    "model": "LG Display",
+    "size": "19",
+    "type": "IPS",
+    "res": "1280×1024",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR9-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF5-SSG2",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM230WF3-SLP8",
+    "model": "LG Display",
+    "size": "23",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB315WRM-SVA1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "1000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB270WF1-SLA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "1000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WR5-SSA1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WF9-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SSP2",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM240WUA-SSA1",
+    "model": "LG Display",
+    "size": "24",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQA-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR3-SSC2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB238WFM-SSA1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WF9-SSC3",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB315WR6-SSZ1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "1000",
+    "workT": "5~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW550JUL-HMA1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "1920×1080",
+    "bri": "150",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB270WFM-SLA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "1000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR3-SSA3",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270QQ2-SPA3",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "5120×2880",
+    "bri": "540",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM400RW1-SSA1",
+    "model": "LG Display",
+    "size": "40",
+    "type": "IPS",
+    "res": "5120×2160",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SSM2",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WFA-SSG2",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQE-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WQ1-SSB1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WRC-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM240WUB-SSC1",
+    "model": "LG Display",
+    "size": "24",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM276SD1-SSA1",
+    "model": "LG Display",
+    "size": "27.6",
+    "type": "IPS",
+    "res": "2560×2880",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW270AHQ-ERG2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "",
+    "res": "2560×1440",
+    "bri": "150",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WF9-SLA1",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF5-SSK1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WRA-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WR7-SSA1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB213QS1-SL01",
+    "model": "LG Display",
+    "size": "21.3",
+    "type": "IPS",
+    "res": "2048×2560",
+    "bri": "1100",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB315WRM-SVA2",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "1000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF7-SSA1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WFB-SSA1",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQ4-SSH1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "LM270WR3-SSB1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WQ1-SSB1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "400",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQD-SSC1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQ4-SSB3",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SSK2",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQ4-SSC1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SSM3",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM490DQ2-SSA1",
+    "model": "LG Display",
+    "size": "49",
+    "type": "IPS",
+    "res": "5120×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM490DQ1-SSC1",
+    "model": "LG Display",
+    "size": "49",
+    "type": "IPS",
+    "res": "5120×1440",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPH1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF8-SSA1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WR5-SSH1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU1-SPB1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM375QW3-SSA1",
+    "model": "LG Display",
+    "size": "37.5",
+    "type": "IPS",
+    "res": "3840×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM340UW8-SSC1",
+    "model": "LG Display",
+    "size": "34",
+    "type": "IPS",
+    "res": "3440×1440",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM245WFA-SSA1",
+    "model": "LG Display",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "5~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR3-SSE1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP156WFD-SPH3",
+    "model": "LG Display",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPB1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU2-SPB1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB215WFM-SLA1",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WUA-SPB1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW420AQD-EQG1",
+    "model": "LG Display",
+    "size": "42",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "135",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQD-SSB1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF6-SSA3",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF6-SSA1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM240WUC-SSA1",
+    "model": "LG Display",
+    "size": "24",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR3-SSF1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQG-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WQ3-SSA1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQ4-SSB1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW550JUL-HRA1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "1920×1080",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB310FTM-SPA1",
+    "model": "LG Display",
+    "size": "31",
+    "type": "IPS",
+    "res": "4200×2800",
+    "bri": "1200",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF5-SSG4",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA123WF7-SL05",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "900",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LP140WU2-SPD1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM245WF9-SSB1",
+    "model": "LG Display",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LD490EPY-SHP2",
+    "model": "LG Display",
+    "size": "49",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WF9-SPF4",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW300PXL-HRT1",
+    "model": "LG Display",
+    "size": "30",
+    "type": "",
+    "res": "1366×768",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPH2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WF9-SSA5",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM245WF9-SSD1",
+    "model": "LG Display",
+    "size": "24.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQ4-SSG1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR3-SSH1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WF9-SPM1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQ4-SSB2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB310FTM-SPA2",
+    "model": "LG Display",
+    "size": "31",
+    "type": "IPS",
+    "res": "4200×2800",
+    "bri": "1200",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "LP140WU1-SPF1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WFH-SPM4",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM340UW9-SSA1",
+    "model": "LG Display",
+    "size": "34",
+    "type": "IPS",
+    "res": "3440×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF8-SSB1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WF9-SSD1",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB315WRM-SVA3",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "1000",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WR7-SSB1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA123WF4-SL02",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "650",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LM215WFA-SSG4",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPB1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPK1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPF1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU3-SPA1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPF1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU1-SPH1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW270AHQ-ERG1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "",
+    "res": "2560×1440",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPB2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW270AHQ-ESG3",
+    "model": "LG Display",
+    "size": "27",
+    "type": "",
+    "res": "2560×1440",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WRD-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF8-SSC1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQJ-SSA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WFD-SSL1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA123WF4-SR03",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "600",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA123WF5-SL01",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "780",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "LA123WF4-SR08",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "600",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LM230WF3-SLS4",
+    "model": "LG Display",
+    "size": "23",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP134WU1-SPB1",
+    "model": "LG Display",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPD2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPF2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPH1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPK1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPD4",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPD2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU4-SPB1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW270PHV-HTM2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "",
+    "res": "2560×1440",
+    "bri": "335",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW315PQ2-HSG1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LC650EQC-STA1",
+    "model": "LG Display",
+    "size": "65",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW390CWQ-ESG1",
+    "model": "LG Display",
+    "size": "39",
+    "type": "",
+    "res": "3440×1440",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LC550EQC-STA1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LC860DQQ-STA1",
+    "model": "LG Display",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LB300WQ7-SPA1",
+    "model": "LG Display",
+    "size": "30",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "900",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF8-SSL1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF9-SSC1",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WFE-SSB1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA123WF4-SL03",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "700",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA123WF4-SL01",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "750",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA123WF4-SR09",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "600",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LE480AQU-ESB1",
+    "model": "LG Display",
+    "size": "48",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "150",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "LM400RW2-SSC1",
+    "model": "LG Display",
+    "size": "40",
+    "type": "IPS",
+    "res": "5120×2160",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP156WFC-SPDZ",
+    "model": "LG Display",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM340UW8-SSB1",
+    "model": "LG Display",
+    "size": "34",
+    "type": "IPS",
+    "res": "3440×1440",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPD1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPB2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPK3",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "340",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP180WQG-SPB1",
+    "model": "LG Display",
+    "size": "18",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP170WQ2-SPD1",
+    "model": "LG Display",
+    "size": "17",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WT1-SPB1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "2880×1800",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WQA-SJC3",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU4-SPK1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WFD-SJA2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WQ1-SSF1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~60°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW315AQQ-ESG2",
+    "model": "LG Display",
+    "size": "32",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW770PQL-HST1",
+    "model": "LG Display",
+    "size": "77",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU4-SPD1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPD5",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "340",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPK2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE550PQL-HSA2",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "150",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WR6-SSZ1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315WR5-SSC1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE650PQL-HQA2",
+    "model": "LG Display",
+    "size": "65",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "185",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE650PQW-HSE2",
+    "model": "LG Display",
+    "size": "65",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM315STA-SSB1",
+    "model": "LG Display",
+    "size": "32",
+    "type": "IPS",
+    "res": "6144×3456",
+    "bri": "450",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPM1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF8-SSA3",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA103WF3-SL01",
+    "model": "LG Display",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "780",
+    "workT": "-40~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "LA103WF4-SL02",
+    "model": "LG Display",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "900",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA103WF4-SL03",
+    "model": "LG Display",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "900",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LM270WQ4-SSN1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA103WF5-SL08",
+    "model": "LG Display",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA103WF5-SL0A",
+    "model": "LG Display",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA123WF7-SL09",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LP133WUA-SPB1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP134WUA-SPA1",
+    "model": "LG Display",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW300PXL-HRT3",
+    "model": "LG Display",
+    "size": "30",
+    "type": "",
+    "res": "1366×768",
+    "bri": "135",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE550AQD-EQA1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "185",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP129WT3-SPA1",
+    "model": "LG Display",
+    "size": "13",
+    "type": "IPS",
+    "res": "2880×1920",
+    "bri": "650",
+    "workT": "0~60°C",
+    "storageT": "-20~70°C"
+  },
+  {
+    "brand": "LP140WU1-SPH2",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPD1",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE550PQH-HSL2",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "250",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA123WF7-SLJ4",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA123WF7-SL04",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA123WFE-SL01",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "720",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LA103WF5-SLJ1",
+    "model": "LG Display",
+    "size": "10.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "0",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LM270WQA-SJD2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "2560×1440",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WF7-SJX1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WF7-SJX2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "",
+    "model": "",
+    "size": "0",
+    "type": "",
+    "res": "",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "LM270WF7-SJX3",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM375QW3-SSB1",
+    "model": "LG Display",
+    "size": "37.5",
+    "type": "IPS",
+    "res": "3840×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP160WU4-SPD1",
+    "model": "LG Display",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP160WQ2-SPH1",
+    "model": "LG Display",
+    "size": "16",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP134WU2-SPB1",
+    "model": "LG Display",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPF2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WU1-SPH2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP125WX1-SPA5",
+    "model": "LG Display",
+    "size": "12.5",
+    "type": "IPS",
+    "res": "1536×1024",
+    "bri": "330",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WQ1-SPK4",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW390CWQ-ESG2",
+    "model": "LG Display",
+    "size": "39",
+    "type": "",
+    "res": "3440×1440",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW270PHC-HSG1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "",
+    "res": "2560×1440",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WR9-SSA2",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "350",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LC860DQQ-SSA2",
+    "model": "LG Display",
+    "size": "86",
+    "type": "IPS",
+    "res": "3840×2160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW550TXL-R2A8",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "1920×1080",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW270AHA-ESG1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "",
+    "res": "2560×1440",
+    "bri": "275",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LA123WF7-SL0B",
+    "model": "LG Display",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-40~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "LW340CWQ-ESG2",
+    "model": "LG Display",
+    "size": "34",
+    "type": "",
+    "res": "3440×1440",
+    "bri": "275",
+    "workT": "0~40°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LW550PUX-HRT1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "1920×1080",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": ""
+  },
+  {
+    "brand": "LE550PQW-HSE1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "200",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM238WF2-SLM5",
+    "model": "LG Display",
+    "size": "23.8",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP116WH9-SPB1",
+    "model": "LG Display",
+    "size": "11.6",
+    "type": "IPS",
+    "res": "1366×768",
+    "bri": "220",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WUA-SPB2",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP180WQ1-SPB1",
+    "model": "LG Display",
+    "size": "18",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE550PQL-HTA1",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "150",
+    "workT": "0~45°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP133WUA-SPB2",
+    "model": "LG Display",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LE550PQY-HPC2",
+    "model": "LG Display",
+    "size": "55",
+    "type": "",
+    "res": "3840×2160",
+    "bri": "135",
+    "workT": "0~40°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM270WFD-SJA1",
+    "model": "LG Display",
+    "size": "27",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WQ2-SPD1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LM215WF9-SSD2",
+    "model": "LG Display",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WU4-SPH1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "LP140WQ2-SPB1",
+    "model": "LG Display",
+    "size": "14",
+    "type": "IPS",
+    "res": "2560×1600",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "brand": "Sharp",
+    "model": "LQ150X1LX95",
+    "size": "15",
+    "type": "VA",
+    "res": "1024×768",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ150X1LW95",
+    "size": "15",
+    "type": "VA",
+    "res": "1024×768",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ190E1LW61",
+    "size": "19",
+    "type": "VA",
+    "res": "1280×1024",
+    "bri": "470",
+    "workT": "-15~65°C",
+    "storageT": "-25~65°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ190E1LW72",
+    "size": "19",
+    "type": "VA",
+    "res": "1280×1024",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ150X1LX96",
+    "size": "15",
+    "type": "VA",
+    "res": "1024×768",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ190E1LX65",
+    "size": "19",
+    "type": "VA",
+    "res": "1280×1024",
+    "bri": "330",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ150X1LW96",
+    "size": "15",
+    "type": "VA",
+    "res": "1024×768",
+    "bri": "500",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS027B7DH01",
+    "size": "2.7",
+    "type": "TN",
+    "res": "400×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156T3LW05",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1366×768",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ190E1LX75T",
+    "size": "19",
+    "type": "VA",
+    "res": "1280×1024",
+    "bri": "350",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ133M1JW15",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS013B7DH03",
+    "size": "1.28",
+    "type": "TN",
+    "res": "128×128",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS044Q7DH01",
+    "size": "4.4",
+    "type": "TN",
+    "res": "320×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ121S1LG86",
+    "size": "12.1",
+    "type": "TN",
+    "res": "800×600",
+    "bri": "1500",
+    "workT": "-30~70°C",
+    "storageT": "-30~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ190E1LX76",
+    "size": "19",
+    "type": "VA",
+    "res": "1280×1024",
+    "bri": "470",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS013B7DH05",
+    "size": "1.26",
+    "type": "TN",
+    "res": "144×168",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS032B7DD02",
+    "size": "3.2",
+    "type": "TN",
+    "res": "336×536",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156M1JW31",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS021B7DD02",
+    "size": "2.1",
+    "type": "VA",
+    "res": "240×320",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS010B7DH04",
+    "size": "1",
+    "type": "TN",
+    "res": "128×128",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ140M1JW49",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156M1JW01",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS018B7DH02",
+    "size": "1.8",
+    "type": "TN",
+    "res": "230×303",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ140M1JW62",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ080Y3LW01A",
+    "size": "8",
+    "type": "VA",
+    "res": "800×480",
+    "bri": "650",
+    "workT": "-30~85°C",
+    "storageT": "-40~90°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS011B7DH03",
+    "size": "1.1",
+    "type": "TN",
+    "res": "160×68",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS012B7DD06A",
+    "size": "1.2",
+    "type": "VA",
+    "res": "240×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ150X1LX25",
+    "size": "15",
+    "type": "VA",
+    "res": "1024×768",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS014B7DD01",
+    "size": "1.39",
+    "type": "VA",
+    "res": "280×280",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS035Q7DD01",
+    "size": "3.5",
+    "type": "",
+    "res": "320×240",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ133T1JX03",
+    "size": "13.3",
+    "type": "VA",
+    "res": "2560×1440",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156M1JW02",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "470",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156M1JW16",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156M1JW06",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134R1JX41",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "3840×2400",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ252B1LX01",
+    "size": "25.2",
+    "type": "VA",
+    "res": "1440×1920",
+    "bri": "480",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ123M5NZ01",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1400",
+    "workT": "-40~95°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ140M1JW61",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "250",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS140M5LX01",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "440",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS013B7DD02",
+    "size": "1.29",
+    "type": "VA",
+    "res": "260×260",
+    "bri": "0",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134N1JW54",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134N1JX44",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ173M1JW12",
+    "size": "17.3",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "300",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ130N1JX01",
+    "size": "13",
+    "type": "IPS",
+    "res": "1920×1280",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ140M1JW54",
+    "size": "14",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ133M1JW46",
+    "size": "13.3",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134R1JX45",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "3840×2400",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134R1JW52",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "3840×2400",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ120N1JX01",
+    "size": "12",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "1350",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134R1JW53",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "3840×2400",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS030B3SX01",
+    "size": "3",
+    "type": "VA",
+    "res": "900×600",
+    "bri": "630",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS123M5LZ01",
+    "size": "12.3",
+    "type": "IPS",
+    "res": "1920×686",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~85°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ215M1LW01",
+    "size": "21.5",
+    "type": "IPS",
+    "res": "1920×1080",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-30~80°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156R1JX01",
+    "size": "15.6",
+    "type": "IPS",
+    "res": "3840×2400",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ415D3FA23",
+    "size": "41.5",
+    "type": "VA",
+    "res": "1920×1080",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LJ163B1JX01",
+    "size": "16.3",
+    "type": "",
+    "res": "2560×2024",
+    "bri": "0",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "Sharp",
+    "model": "LP285A6NW02",
+    "size": "28.5",
+    "type": "",
+    "res": "2160×3160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134N1JW55",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS029B3SX08",
+    "size": "2.9",
+    "type": "IPS",
+    "res": "2448×2448",
+    "bri": "150",
+    "workT": "",
+    "storageT": ""
+  },
+  {
+    "brand": "Sharp",
+    "model": "LS124M5LZ04",
+    "size": "12.4",
+    "type": "IPS",
+    "res": "1920×720",
+    "bri": "1000",
+    "workT": "-30~85°C",
+    "storageT": "-40~95°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LX160M1BB01",
+    "size": "16",
+    "type": "IPS",
+    "res": "1920×1200",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-20~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ190E1LC08",
+    "size": "19",
+    "type": "TN",
+    "res": "1280×1024",
+    "bri": "400",
+    "workT": "0~75°C",
+    "storageT": "-25~75°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ134R1JY01",
+    "size": "13.4",
+    "type": "IPS",
+    "res": "3840×2400",
+    "bri": "500",
+    "workT": "0~50°C",
+    "storageT": "-25~65°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LP285A6NW11",
+    "size": "28.5",
+    "type": "",
+    "res": "2160×3160",
+    "bri": "0",
+    "workT": "0~50°C",
+    "storageT": "-25~60°C"
+  },
+  {
+    "brand": "Sharp",
+    "model": "LQ156T3LW08",
+    "size": "15.6",
+    "type": "VA",
+    "res": "1366×768",
+    "bri": "400",
+    "workT": "-20~70°C",
+    "storageT": "-25~70°C"
+  }
+]
