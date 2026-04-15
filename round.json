@@ -1,0 +1,189 @@
+[
+  {
+    "category": "Round TFT LCD Display",
+    "size": "1.28",
+    "res": "240x240",
+    "type": "IPS",
+    "active": "32.4x32.4",
+    "outline": "35.6x37.74",
+    "iface": "SPI",
+    "lum": "400",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "1.28",
+    "res": "240x240",
+    "type": "IPS",
+    "active": "32.4x32.4",
+    "outline": "50.2x50.2",
+    "iface": "SPI",
+    "lum": "320",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "1.28",
+    "res": "240x240",
+    "type": "IPS",
+    "active": "32.4x32.4",
+    "outline": "35.6x37.74",
+    "iface": "SPI,SPI+RGB,MCU",
+    "lum": "500",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "1.6",
+    "res": "400x400",
+    "type": "IPS",
+    "active": "39.84x39.84",
+    "outline": "42.94x45.89",
+    "iface": "MIPI DSI",
+    "lum": "350",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "2.1",
+    "res": "480x480",
+    "type": "IPS",
+    "active": "53.28x53.28",
+    "outline": "56.18x59.71",
+    "iface": "SPI+RGB",
+    "lum": "450",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "2.1",
+    "res": "480x480",
+    "type": "IPS",
+    "active": "53.28x53.28",
+    "outline": "71.27x71.27",
+    "iface": "SPI+RGB",
+    "lum": "430",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "2.76",
+    "res": "480x480",
+    "type": "IPS",
+    "active": "70.128x70.128",
+    "outline": "73.03x 76.48",
+    "iface": "SPI+RGB",
+    "lum": "420",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "3.4",
+    "res": "800x800",
+    "type": "IPS",
+    "active": "87.6x87.6",
+    "outline": "94.9x96.95",
+    "iface": "MIPI DSI",
+    "lum": "300",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "4",
+    "res": "720x720",
+    "type": "IPS",
+    "active": "101.52x101.52",
+    "outline": "105.3x109.62",
+    "iface": "MIPI DSI",
+    "lum": "350",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "4",
+    "res": "720x720",
+    "type": "IPS",
+    "active": "101.52x101.52",
+    "outline": "125x125",
+    "iface": "MIPI DSI",
+    "lum": "320",
+    "top": "-20~70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "0.99",
+    "res": "128x115",
+    "type": "IPS",
+    "active": "24.36x21.89",
+    "outline": "26.71x26.22",
+    "iface": "SPI/MCU",
+    "lum": "350",
+    "top": "-20-70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "1.3",
+    "res": "240x240",
+    "type": "IPS",
+    "active": "32.40x32.40",
+    "outline": "35.60x38.10",
+    "iface": "MUC/SPI",
+    "lum": "500",
+    "top": "-10-60"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "2.1",
+    "res": "480x480",
+    "type": "IPS",
+    "active": "53.28x53.28",
+    "outline": "56.18x59.71",
+    "iface": "RGB",
+    "lum": "600",
+    "top": "-20-70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "2.76",
+    "res": "480x480",
+    "type": "IPS",
+    "active": "70.13x70.13",
+    "outline": "73.03x76.48",
+    "iface": "RGB",
+    "lum": "280",
+    "top": "-20-70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "3.4",
+    "res": "800x800",
+    "type": "IPS",
+    "active": "86.60x87.60",
+    "outline": "99.60x99.79",
+    "iface": "MIPI",
+    "lum": "1000",
+    "top": "-30-80"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "4",
+    "res": "720x720",
+    "type": "IPS",
+    "active": "101.52x106.55",
+    "outline": "105.61x109.87",
+    "iface": "MIPI",
+    "lum": "400",
+    "top": "-20-70"
+  },
+  {
+    "category": "Round TFT LCD Display",
+    "size": "7",
+    "res": "1080x1080",
+    "type": "IPS",
+    "active": "177.55x177.55",
+    "outline": "186.25x191.38",
+    "iface": "MIPI",
+    "lum": "350",
+    "top": "-20-70"
+  }
+]

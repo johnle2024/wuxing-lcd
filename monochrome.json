@@ -1,0 +1,68 @@
+[
+  {
+    "category": "Monochrome TFT LCD",
+    "size": "3",
+    "res": "320x120",
+    "type": "IPS",
+    "active": "72x27",
+    "outline": "86.347x35.89",
+    "iface": "SPI",
+    "lum": "450",
+    "top": "-20~70"
+  },
+  {
+    "category": "Monochrome TFT LCD",
+    "size": "3.5",
+    "res": "240x320",
+    "type": "VA",
+    "active": "53.28x71.04",
+    "outline": "62.9x86.54",
+    "iface": "MCU",
+    "lum": "500",
+    "top": "-30~80"
+  },
+  {
+    "category": "Monochrome TFT LCD",
+    "size": "5.7",
+    "res": "320x240",
+    "type": "12H",
+    "active": "115.2x86.4",
+    "outline": "160x109",
+    "iface": "MCU",
+    "lum": "1000",
+    "top": "-20~70"
+  },
+  {
+    "category": "Monochrome TFT LCD",
+    "size": "5.7",
+    "res": "320x240",
+    "type": "12H",
+    "active": "115.2x86.4",
+    "outline": "160x109",
+    "iface": "MCU",
+    "lum": "700",
+    "top": "-20~70"
+  },
+  {
+    "category": "Monochrome TFT LCD",
+    "size": "5.7",
+    "res": "320x240",
+    "type": "12H",
+    "active": "115.2x86.4",
+    "outline": "160x109",
+    "iface": "MCU",
+    "lum": "800",
+    "top": "-20~70"
+  },
+  {
+    "category": "Monochrome TFT LCD",
+    "size": "6.2",
+    "res": "640x320",
+    "type": "VA",
+    "active": "140x70",
+    "outline": "170.32x88.3",
+    "iface": "MCU",
+    "lum": "600",
+    "top": "-20~70"
+  }
+]
