@@ -121,25 +121,27 @@
             </div>
 
             <div class="space-y-4">
-                <a href="https://wa.me/message/M6UHWFSHN2JNG1" target="_blank" class="flex items-center justify-center space-x-3 w-full py-3 bg-[#25D366] text-white rounded-xl font-bold hover:opacity-90 transition shadow-lg shadow-green-100">
+                <a href="https://wa.me/message/M6UHWFSHN2JNG1" target="_blank" class="relative z-20 flex items-center justify-center space-x-3 w-full py-3 bg-[#25D366] text-white rounded-xl font-bold hover:opacity-90 transition shadow-lg shadow-green-100">
                     <i class="fab fa-whatsapp text-xl"></i>
                     <span>WhatsApp</span>
                 </a>
 
-                <div class="relative group">
+                <div class="relative group z-30">
                     <div class="flex items-center justify-center space-x-3 w-full py-3 bg-[#07C160] text-white rounded-xl font-bold cursor-pointer hover:opacity-90 transition shadow-lg shadow-green-100">
                         <i class="fab fa-weixin text-xl"></i>
                         <span class="lang-cn">微信联系</span>
                         <span class="lang-en">WeChat</span>
                     </div>
-                    <div class="absolute inset-0 bg-white rounded-xl opacity-0 group-hover:opacity-100 flex flex-col items-center justify-center transition-opacity border-2 border-[#07C160] z-10">
-                        <img src="https://img.lcdlight.qzz.io/file/1775738200940_2b5decab2d01ddbf9e8047e5105e3e4d.jpg" alt="WeChat" class="w-48 h-48">
-                        <p class="text-[10px] mt-1 text-gray-500 font-bold lang-cn">保存二维码扫码</p>
-                        <p class="text-[10px] mt-1 text-gray-500 font-bold lang-en">Scan or Save to Add</p>
+                    
+                    <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 bg-white rounded-xl p-4 opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-all duration-300 border-2 border-[#07C160] shadow-2xl z-50">
+                        <img src="https://img.lcdlight.qzz.io/file/1775738200940_2b5decab2d01ddbf9e8047e5105e3e4d.jpg" alt="WeChat" class="w-40 h-40">
+                        <p class="text-[10px] mt-2 text-gray-500 font-bold lang-cn">保存二维码扫码</p>
+                        <p class="text-[10px] mt-2 text-gray-500 font-bold lang-en">Scan or Save to Add</p>
+                        <div class="absolute top-full left-1/2 -translate-x-1/2 border-8 border-transparent border-t-white"></div>
                     </div>
                 </div>
 
-                <a href="mailto:jacy@awuxing.com.cn" class="flex items-center justify-center space-x-3 w-full py-3 bg-blue-600 text-white rounded-xl font-bold hover:bg-blue-700 transition shadow-lg shadow-blue-100">
+                <a href="mailto:jacy@awuxing.com.cn" class="relative z-20 flex items-center justify-center space-x-3 w-full py-3 bg-blue-600 text-white rounded-xl font-bold hover:bg-blue-700 transition shadow-lg shadow-blue-100">
                     <i class="fas fa-envelope"></i>
                     <span class="lang-cn">获取报价</span>
                     <span class="lang-en">Get Quote</span>
