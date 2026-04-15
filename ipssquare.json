@@ -8,7 +8,7 @@
     "outline": "26.20x29.22",
     "iface": "SPI/MCU",
     "lum": "350",
-    "top": "-20-70",
+    "top": "-20-70"
   },
   {
     "category": "IPS Square",
@@ -19,7 +19,7 @@
     "outline": "31.52x33.72",
     "iface": "MIPI",
     "lum": "380",
-    "top": "-20-70",
+    "top": "-20-70"
   },
   {
     "category": "IPS Square",
@@ -30,7 +30,7 @@
     "outline": "53.10x59.00",
     "iface": "RGB",
     "lum": "700",
-    "top": "-20-70",
+    "top": "-20-70"
   },
   {
     "category": "IPS Square",
@@ -41,7 +41,7 @@
     "outline": "74.83x78.98",
     "iface": "RGB",
     "lum": "400",
-    "top": "-20-70",
+    "top": "-20-70"
   },
   {
     "category": "IPS Square",
@@ -52,6 +52,6 @@
     "outline": "74.83x78.98",
     "iface": "MIPI",
     "lum": "500",
-    "top": "-20-70",
+    "top": "-20-70"
   }
 ]
