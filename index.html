@@ -528,6 +528,78 @@
         </div>
     </div>
 </section>
+<section id="custom" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold mb-4 text-slate-800">
+                <span class="lang-cn">伍行定制化方案中心 / 产品规格清单</span>
+                <span class="lang-en">Customized Display Solutions Center / Product Matrix</span>
+            </h2>
+            <div class="h-1.5 w-20 bg-blue-600 mx-auto rounded-full mb-6"></div>
+        </div>
+
+        <div class="bg-white p-6 rounded-2xl shadow-xl border border-gray-100 mb-6">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-end">
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
+                        <span class="lang-cn">产品分类</span><span class="lang-en">Product Category</span>
+                    </label>
+                    <select id="typeFilter" onchange="handleFilter()" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer transition-all">
+                    </select>
+                </div>
+
+                <div class="space-y-2">
+                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
+                        <span class="lang-cn">尺寸搜索</span><span class="lang-en">Search Size</span>
+                    </label>
+                    <div class="relative">
+                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
+                            <i class="fa-solid fa-magnifying-glass text-xs"></i>
+                        </span>
+                        <input type="text" id="tableSearch" oninput="handleFilter()" 
+                            placeholder="e.g. 3.5, 7.0..." 
+                            class="block w-full pl-9 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-500 transition-all text-sm outline-none">
+                    </div>
+                </div>
+
+                <div class="pb-3 text-right">
+                    <div class="text-sm font-medium text-slate-500">
+                        <span class="lang-cn">匹配: <span id="customMatchCount" class="text-blue-600 font-bold text-lg">0</span> 项</span>
+                        <span class="lang-en">Matches: <span id="customMatchCountEn" class="text-blue-600 font-bold text-lg">0</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="overflow-x-auto rounded-xl border border-gray-200 shadow-sm bg-white">
+            <table class="min-w-full w-full text-left border-collapse bg-white">
+                <thead class="bg-slate-800 text-white text-[11px] font-bold uppercase tracking-wider whitespace-nowrap">
+                    <tr id="customTableHeader">
+                        <th class="px-6 py-4" data-cn="尺寸" data-en="Size">Size</th>
+                        <th class="px-6 py-4" data-cn="分辨率" data-en="Resolution">Resolution</th>
+                        <th class="px-4 py-4" data-cn="液晶态/结构" data-en="LCD TYPE/Structure">LCD TYPE/Structure</th>
+                        <th class="px-4 py-4" data-cn="亮度" data-en="Luminance">Luminance</th>
+                        <th class="px-4 py-4" data-cn="信号类型" data-en="Interface">Interface</th>
+                        <th class="px-4 py-4" data-cn="外形尺寸" data-en="Outline Dimension(mm)">Outline Dimension(mm)</th>
+                        <th class="px-4 py-4" data-cn="有效尺寸" data-en="Active Area(mm)">Active Area(mm)</th>
+                        <th class="px-4 py-4" data-cn="工作温度" data-en="Work Temp">Work Temp</th>
+                        <th class="px-4 py-4 text-center" data-cn="操作" data-en="Action">Action</th>
+                    </tr>
+                </thead>
+                <tbody id="customTableBody" class="text-[13px] divide-y divide-gray-100 text-slate-600">
+                    </tbody>
+            </table>
+        </div>
+
+        <div class="mt-8 text-center">
+            <button id="toggleDataBtn" onclick="toggleDisplayLimit()" class="inline-flex items-center px-8 py-2 border-2 border-blue-600 text-blue-600 font-bold rounded-full hover:bg-blue-600 hover:text-white transition-all duration-300">
+                <span class="lang-cn">显示全部数据</span><span class="lang-en">Show All Data</span>
+                <i class="fa-solid fa-chevron-down ml-2 transition-transform duration-300" id="toggleIcon"></i>
+            </button>
+        </div>
+    </div>
+</section>
+
 
 <section id="panel-library" class="py-24 bg-blue-50">
     <div class="max-w-7xl mx-auto px-6">
@@ -765,78 +837,7 @@ const panelModule = (function() {
 document.addEventListener('DOMContentLoaded', panelModule.init);
 </script>
 
-    <section id="custom" class="py-24 bg-white">
-    <div class="max-w-7xl mx-auto px-6">
-        <div class="text-center mb-12">
-            <h2 class="text-3xl font-bold mb-4 text-slate-800">
-                <span class="lang-cn">伍行定制化方案中心 / 产品规格清单</span>
-                <span class="lang-en">Customized Display Solutions Center / Product Matrix</span>
-            </h2>
-            <div class="h-1.5 w-20 bg-blue-600 mx-auto rounded-full mb-6"></div>
-        </div>
-
-        <div class="bg-white p-6 rounded-2xl shadow-xl border border-gray-100 mb-6">
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-end">
-                <div class="space-y-2">
-                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
-                        <span class="lang-cn">产品分类</span><span class="lang-en">Product Category</span>
-                    </label>
-                    <select id="typeFilter" onchange="handleFilter()" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer transition-all">
-                    </select>
-                </div>
-
-                <div class="space-y-2">
-                    <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
-                        <span class="lang-cn">尺寸搜索</span><span class="lang-en">Search Size</span>
-                    </label>
-                    <div class="relative">
-                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
-                            <i class="fa-solid fa-magnifying-glass text-xs"></i>
-                        </span>
-                        <input type="text" id="tableSearch" oninput="handleFilter()" 
-                            placeholder="e.g. 3.5, 7.0..." 
-                            class="block w-full pl-9 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-500 transition-all text-sm outline-none">
-                    </div>
-                </div>
-
-                <div class="pb-3 text-right">
-                    <div class="text-sm font-medium text-slate-500">
-                        <span class="lang-cn">匹配: <span id="customMatchCount" class="text-blue-600 font-bold text-lg">0</span> 项</span>
-                        <span class="lang-en">Matches: <span id="customMatchCountEn" class="text-blue-600 font-bold text-lg">0</span></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="overflow-x-auto rounded-xl border border-gray-200 shadow-sm bg-white">
-            <table class="min-w-full w-full text-left border-collapse bg-white">
-                <thead class="bg-slate-800 text-white text-[11px] font-bold uppercase tracking-wider whitespace-nowrap">
-                    <tr id="customTableHeader">
-                        <th class="px-6 py-4" data-cn="尺寸" data-en="Size">Size</th>
-                        <th class="px-6 py-4" data-cn="分辨率" data-en="Resolution">Resolution</th>
-                        <th class="px-4 py-4" data-cn="液晶态/结构" data-en="LCD TYPE/Structure">LCD TYPE/Structure</th>
-                        <th class="px-4 py-4" data-cn="亮度" data-en="Luminance">Luminance</th>
-                        <th class="px-4 py-4" data-cn="信号类型" data-en="Interface">Interface</th>
-                        <th class="px-4 py-4" data-cn="外形尺寸" data-en="Outline Dimension(mm)">Outline Dimension(mm)</th>
-                        <th class="px-4 py-4" data-cn="有效尺寸" data-en="Active Area(mm)">Active Area(mm)</th>
-                        <th class="px-4 py-4" data-cn="工作温度" data-en="Work Temp">Work Temp</th>
-                        <th class="px-4 py-4 text-center" data-cn="操作" data-en="Action">Action</th>
-                    </tr>
-                </thead>
-                <tbody id="customTableBody" class="text-[13px] divide-y divide-gray-100 text-slate-600">
-                    </tbody>
-            </table>
-        </div>
-
-        <div class="mt-8 text-center">
-            <button id="toggleDataBtn" onclick="toggleDisplayLimit()" class="inline-flex items-center px-8 py-2 border-2 border-blue-600 text-blue-600 font-bold rounded-full hover:bg-blue-600 hover:text-white transition-all duration-300">
-                <span class="lang-cn">显示全部数据</span><span class="lang-en">Show All Data</span>
-                <i class="fa-solid fa-chevron-down ml-2 transition-transform duration-300" id="toggleIcon"></i>
-            </button>
-        </div>
-    </div>
-</section>
-
+    
 <script>
 const customModule = (function() {
     const CATEGORY_MAP = {
