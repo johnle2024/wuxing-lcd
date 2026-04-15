@@ -888,7 +888,7 @@ const customModule = (function() {
 
     async function loadData() {
         try {
-            const res = await fetch('./standard.json','./ips.json','./highbrightness.json','./bartype.json','./monochrome.json','./round.json','./oled.json','./panelcontrollerboard.json','./transflective.json','./highbrightness.json','./ultrawidetemperature.json'');
+            const res = await fetch('./ips.json','./highbrightness.json','./bartype.json','./monochrome.json','./round.json','./oled.json','./panelcontrollerboard.json','./transflective.json','./highbrightness.json','./ultrawidetemperature.json'');
             allData = await res.json();
             renderDynamicOptions();
             renderTable();
