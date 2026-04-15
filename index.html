@@ -888,7 +888,7 @@ const customModule = (function() {
 
     async function loadData() {
         try {
-            const res = await fetch('./custom.json');
+            const res = await fetch('./custom.json','./ips.json');
             allData = await res.json();
             renderDynamicOptions();
             renderTable();
