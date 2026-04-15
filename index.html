@@ -780,7 +780,7 @@ document.addEventListener('DOMContentLoaded', panelModule.init);
                     <label class="text-xs font-bold text-slate-400 uppercase tracking-wider">
                         <span class="lang-cn">产品分类</span><span class="lang-en">Product Category</span>
                     </label>
-                    <select id="typeFilter" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer transition-all">
+                    <select id="typeFilter" onchange="handleFilter()" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer transition-all">
                     </select>
                 </div>
 
@@ -792,7 +792,9 @@ document.addEventListener('DOMContentLoaded', panelModule.init);
                         <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
                             <i class="fa-solid fa-magnifying-glass text-xs"></i>
                         </span>
-                        <input type="text" id="tableSearch" placeholder="e.g. 3.5, 7.0..." class="block w-full pl-9 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-500 transition-all text-sm outline-none">
+                        <input type="text" id="tableSearch" oninput="handleFilter()" 
+                            placeholder="e.g. 3.5, 7.0..." 
+                            class="block w-full pl-9 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-500 transition-all text-sm outline-none">
                     </div>
                 </div>
 
@@ -821,12 +823,12 @@ document.addEventListener('DOMContentLoaded', panelModule.init);
                     </tr>
                 </thead>
                 <tbody id="customTableBody" class="text-[13px] divide-y divide-gray-100 text-slate-600">
-                </tbody>
+                    </tbody>
             </table>
         </div>
 
         <div class="mt-8 text-center">
-            <button id="toggleDataBtn" class="inline-flex items-center px-8 py-2 border-2 border-blue-600 text-blue-600 font-bold rounded-full hover:bg-blue-600 hover:text-white transition-all duration-300">
+            <button id="toggleDataBtn" onclick="toggleDisplayLimit()" class="inline-flex items-center px-8 py-2 border-2 border-blue-600 text-blue-600 font-bold rounded-full hover:bg-blue-600 hover:text-white transition-all duration-300">
                 <span class="lang-cn">显示全部数据</span><span class="lang-en">Show All Data</span>
                 <i class="fa-solid fa-chevron-down ml-2 transition-transform duration-300" id="toggleIcon"></i>
             </button>
@@ -836,60 +838,45 @@ document.addEventListener('DOMContentLoaded', panelModule.init);
 
 <script>
 const customModule = (function() {
-    const CONFIG = {
-        dataFiles: [
-            './custom.json', './highbrightness.json', './bartype.json', 
-            './monochrome.json', './round.json', './oled.json', 
-            './panelcontrollerboard.json', './transflective.json', './ultrawidetemperature.json'
-        ],
-        categoryMap: {
-            "Standard TFT Color Display": "标准彩色 TFT",
-            "IPS TFT LCD": "IPS 屏",
-            "High Brightness TFT Display": "高亮度 TFT",
-            "Ultra Wide Temperature TFT": "超宽温 TFT",
-            "TFT Panel + Controller Board": "TFT + 控制板",
-            "For HDMI Signal TFT LCD": "HDMI 接口 TFT",
-            "Bar Type TFT LCD": "条形屏 TFT",
-            "Round TFT LCD Display": "圆形屏 TFT",
-            "Monochrome TFT LCD": "单色 TFT",
-            "Transflective TFT LCD Display": "半反半透 TFT",
-            "OLED Display": "OLED 显示屏"
-        },
-        defaultLimit: 10
+    const CATEGORY_MAP = {
+        "Standard TFT Color Display": "标准彩色 TFT",
+        "IPS TFT LCD": "IPS 屏",
+        "High Brightness TFT Display": "高亮度 TFT",
+        "Ultra Wide Temperature TFT": "超宽温 TFT",
+        "TFT Panel + Controller Board": "TFT + 控制板",
+        "For HDMI Signal TFT LCD": "HDMI 接口 TFT",
+        "Bar Type TFT LCD": "条形屏 TFT",
+        "Round TFT LCD Display": "圆形屏 TFT",
+        "Monochrome TFT LCD": "单色 TFT",
+        "Transflective TFT LCD Display": "半反半透 TFT",
+        "OLED Display": "OLED 显示屏"
     };
 
-    let db = [];        // 原始总数据库 (对应面板库的 db)
-    let filtered = [];  // 筛选后的数据 (对应面板库的 filtered)
+    let allData = [];
     let isExpanded = false;
-    let timer;
-
+    const DEFAULT_LIMIT = 10;
     const getLang = () => document.body.getAttribute('data-lang') === 'en' ? 'en' : 'cn';
 
-    async function init() {
-        try {
-            const res = await Promise.all(CONFIG.dataFiles.map(f => fetch(f)));
-            const data = await Promise.all(res.map(r => r.json()));
-            
-            // 数据清洗：剔除空行，并确保有 category 字段的数据才被录入
-            db = data.flat().filter(i => i && i.category);
-            filtered = [...db];
-
-            translateHeaders();
-            renderOptions();
-            renderTable();
-            bindEvents();
-            
-            // 监听语言切换
-            new MutationObserver(() => {
-                translateHeaders();
-                renderOptions(true); 
-                renderTable();
-            }).observe(document.body, { attributes: true, attributeFilter: ['data-lang'] });
-
-        } catch (err) { console.error("Custom Data Load Error:", err); }
+    function renderDynamicOptions(isSwitching = false) {
+        const select = document.getElementById('typeFilter');
+        if(!select || allData.length === 0) return;
+        const currentVal = select.value;
+        const lang = getLang();
+        let categoriesFound = [...new Set(allData.map(i => i.category))].filter(c => c);
+        categoriesFound.sort((a, b) => {
+            if (a.includes("OLED")) return 1;
+            if (b.includes("OLED")) return -1;
+            return a.localeCompare(b);
+        });
+        let html = lang === 'en' ? '<option value="All">All Categories</option>' : '<option value="All">所有分类</option>';
+        html += categoriesFound.map(catEn => {
+            const text = lang === 'cn' ? (CATEGORY_MAP[catEn] || catEn) : catEn;
+            return `<option value="${catEn}">${text}</option>`;
+        }).join('');
+        select.innerHTML = html;
+        if(isSwitching) select.value = currentVal;
     }
 
-    // 翻译表头 (保留你原有的基于 data-cn/en 的逻辑)
     function translateHeaders() {
         const lang = getLang();
         document.querySelectorAll('#customTableHeader th').forEach(th => {
@@ -899,63 +886,53 @@ const customModule = (function() {
         });
     }
 
-    // 渲染下拉菜单 (完全参照面板库 renderOptions 提取 db 数据的写法)
-    function renderOptions(isSwitchingLang = false) {
-        const select = document.getElementById('typeFilter');
-        const lang = getLang();
-        const curVal = select.value;
-
-        // 从 db 中提取所有去重后的 category
-        const catList = [...new Set(db.map(i => i.category))].filter(Boolean).sort();
-
-        // 默认选项
-        const allText = lang === 'en' ? 'All Categories' : '所有分类';
-        let html = `<option value="">${allText}</option>`;
-
-        // 遍历生成选项
-        html += catList.map(cat => {
-            const text = lang === 'en' ? cat : (CONFIG.categoryMap[cat] || cat);
-            return `<option value="${cat}">${text}</option>`;
-        }).join('');
-
-        select.innerHTML = html;
-
-        if(isSwitchingLang) {
-            select.value = curVal;
-        }
+    async function loadData() {
+        try {
+            const res = await fetch('./custom.json');
+            allData = await res.json();
+            renderDynamicOptions();
+            renderTable();
+        } catch(e) { console.error("JSON Error"); }
     }
 
-    // 渲染表格 (结合筛选后的 filtered 数组)
     function renderTable() {
+        const catKey = document.getElementById('typeFilter').value;
+        const sizeKey = document.getElementById('tableSearch').value.trim().toLowerCase();
         const lang = getLang();
-        const body = document.getElementById('customTableBody');
 
-        // 更新数字匹配
+        const filtered = allData.filter(i => {
+            const matchCat = catKey === "All" || i.category === catKey;
+            const matchSize = !sizeKey || String(i.size).toLowerCase().includes(sizeKey);
+            return matchCat && matchSize;
+        });
+
         document.getElementById('customMatchCount').innerText = filtered.length;
         document.getElementById('customMatchCountEn').innerText = filtered.length;
+        translateHeaders();
 
-        // 处理展开/折叠
-        const displayData = isExpanded ? filtered : filtered.slice(0, CONFIG.defaultLimit);
+        const displayData = isExpanded ? filtered : filtered.slice(0, DEFAULT_LIMIT);
+        const tbody = document.getElementById('customTableBody');
 
         if (displayData.length === 0) {
-            body.innerHTML = `<tr><td colspan="9" class="py-20 text-center text-slate-400">No data found.</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="9" class="text-center py-20 text-slate-400">No matching items.</td></tr>`;
             return;
         }
 
-        body.innerHTML = displayData.map(i => `
+        tbody.innerHTML = displayData.map(i => `
             <tr class="hover:bg-blue-50/50 transition whitespace-nowrap">
-                <td class="px-6 py-4 font-bold text-slate-800">${i.size || '-'}</td>
-                <td class="px-6 py-4 font-bold text-blue-700">${i.res || '-'}</td>
+                <td class="px-6 py-4 font-bold text-slate-800">${i.size}</td>
+                <td class="px-6 py-4 font-bold text-blue-700">${i.res}</td>
                 <td class="px-4 py-4">
-                    <span class="px-2 py-0.5 bg-slate-100 rounded text-[10px] font-medium text-slate-600">${i.type || '-'}</span>
+                    <span class="px-2 py-0.5 bg-slate-100 rounded text-[10px] font-medium text-slate-600">${i.type}</span>
                 </td>
-                <td class="px-4 py-4 font-mono font-bold text-emerald-600">${i.lum || '-'}</td>
-                <td class="px-4 py-4">${i.iface || '-'}</td>
+                <td class="px-4 py-4 font-mono font-bold text-emerald-600">${i.lum}</td>
+                <td class="px-4 py-4">${i.iface}</td>
                 <td class="px-4 py-4 font-mono text-slate-400 text-[12px]">${i.outline || '-'}</td>
                 <td class="px-4 py-4 font-mono text-slate-400 text-[12px]">${i.active || '-'}</td>
-                <td class="px-4 py-4 text-orange-600 font-medium">${i.top || '-'}</td>
+                <td class="px-4 py-4 text-orange-600 font-medium">${i.top}</td>
                 <td class="px-4 py-4 text-center">
-                    <a href="#wuxing-inquiry-box" class="bg-slate-900 text-white px-4 py-1.5 rounded-lg text-[11px] font-bold hover:bg-blue-600 transition shadow-sm inline-block text-center cursor-pointer">
+                    <a href="#wuxing-inquiry-box" 
+                       class="bg-slate-900 text-white px-4 py-1.5 rounded-lg text-[11px] font-bold hover:bg-blue-600 transition shadow-sm inline-block text-center cursor-pointer">
                         ${lang === 'en' ? 'Inquiry' : '询价'}
                     </a>
                 </td>
@@ -963,48 +940,30 @@ const customModule = (function() {
         `).join('');
     }
 
-    // 核心过滤逻辑 (完全参照面板库 doFilter 交叉匹配写法)
-    function doFilter() {
-        const cat = document.getElementById('typeFilter').value;
-        const sizeSearch = document.getElementById('tableSearch').value.toLowerCase().trim();
-
-        filtered = db.filter(i => {
-            const matchCat = !cat || i.category === cat;
-            const matchSize = !sizeSearch || String(i.size).toLowerCase().includes(sizeSearch);
-            return matchCat && matchSize;
-        });
-
-        renderTable();
-    }
-
-    // 绑定事件 (统一在这里绑定，保持 HTML 干净)
-    function bindEvents() {
-        // 下拉菜单改变时触发
-        document.getElementById('typeFilter').onchange = doFilter;
-        
-        // 搜索框输入时触发 (带防抖)
-        document.getElementById('tableSearch').oninput = () => {
-            clearTimeout(timer);
-            timer = setTimeout(doFilter, 300);
-        };
-
-        // 展开/收起按钮点击事件
-        document.getElementById('toggleDataBtn').onclick = () => {
+    return {
+        init: () => {
+            loadData();
+            new MutationObserver(() => {
+                renderDynamicOptions(true);
+                renderTable();
+            }).observe(document.body, { attributes: true, attributeFilter: ['data-lang'] });
+        },
+        handleFilter: renderTable,
+        toggle: () => {
             isExpanded = !isExpanded;
             const btn = document.getElementById('toggleDataBtn');
             const icon = document.getElementById('toggleIcon');
-            
+            const lang = getLang();
             btn.querySelector('.lang-cn').innerText = isExpanded ? '收起数据' : '显示全部数据';
             btn.querySelector('.lang-en').innerText = isExpanded ? 'Collapse Data' : 'Show All Data';
             icon.style.transform = isExpanded ? 'rotate(180deg)' : 'rotate(0deg)';
-            
             renderTable();
-        };
-    }
-
-    return { init };
+        }
+    };
 })();
 
+window.handleFilter = customModule.handleFilter;
+window.toggleDisplayLimit = customModule.toggle;
 document.addEventListener('DOMContentLoaded', customModule.init);
 </script>
     /* 多语言显隐控制 */
