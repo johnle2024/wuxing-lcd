@@ -1,0 +1,13 @@
+[
+  {
+    "category": "Transflective TFT LCD Display",
+    "size": "5",
+    "res": "800×480",
+    "type": "IPS",
+    "active": "108×64.8",
+    "outline": "120.8×75.9",
+    "iface": "RGB",
+    "lum": "200",
+    "top": "-30~85"
+  }
+]
